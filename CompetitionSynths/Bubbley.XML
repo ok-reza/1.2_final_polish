@@ -16,7 +16,7 @@
 		transpose="0"
 		cents="0"
 		retrigPhase="-1"
-		fileName="CompetitionSamples/Bubbley/Bell Seven.wav" />
+		fileName="SAMPLES/CompetitionSamples/Bubbley/Bell Seven.wav" />
 	<osc2
 		type="square"
 		transpose="0"

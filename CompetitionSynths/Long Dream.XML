@@ -14,7 +14,7 @@
 		transpose="0"
 		cents="0"
 		retrigPhase="-1"
-		fileName="CompetitionSamples/Long Dream/Disto Dance.wav" />
+		fileName="SAMPLES/CompetitionSamples/Long Dream/Disto Dance.wav" />
 	<osc2
 		type="square"
 		transpose="0"
