@@ -1,5 +1,5 @@
 Saumur Piano
-VSCO Percussion Sampler Kit
+VSCO Perc Kit
 Dystopia Keys
 Meld Arp
 Worrisome
@@ -10,7 +10,7 @@ D-303
 Immortal Planet
 Pianism I
 Wood Pluck
-Joey's Kalimba
+Joeys Kalimba
 Wall of Static
 MPE Desert Strata
 Dark
@@ -33,7 +33,7 @@ Gong
 Slogro
 Halcyon
 Brick Speedboat
-Warm FM Pad
+Warm DX7 Pad
 Arca Strings
 Curvilinear
 Kaleidoscope
@@ -61,7 +61,7 @@ Square Saw Bass
 Wavedash
 Modello Uno
 Super Saw
-WesternFMPads
+FM Pads
 Stellar
 Rusty Blade
 Mellow Bass Pluck
@@ -90,7 +90,7 @@ Hollow Dark
 Nilsish
 Livewire Arp
 Sync Squared
-Vowlz
+Vowlz Ps
 Super Square
 Desparate Synth
 Spilled Soup
