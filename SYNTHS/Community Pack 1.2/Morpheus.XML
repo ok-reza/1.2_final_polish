@@ -17,14 +17,14 @@
 		transpose="-12"
 		cents="0"
 		retrigPhase="-1"
-		fileName="SAMPLES/CompetitionSamples/Morpheus/BS2 - Subby Saw.wav" />
+		fileName="SAMPLES/Community Pack 1.2/Morpheus/BS2 - Subby Saw.wav" />
 	<osc2
 		type="wavetable"
 		transpose="-12"
 		cents="0"
 		oscillatorSync="1"
 		retrigPhase="-1"
-		fileName="SAMPLES/CompetitionSamples/Morpheus/DudaChoir.wav" />
+		fileName="SAMPLES/Community Pack 1.2/Morpheus/DudaChoir.wav" />
 	<lfo1 type="triangle" syncLevel="4" syncType="10" />
 	<lfo2 type="saw" syncLevel="5" syncType="0" />
 	<unison num="1" detune="8" spread="0" />

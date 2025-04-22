@@ -16,7 +16,7 @@
 		transpose="0"
 		cents="0"
 		retrigPhase="1789569600"
-		fileName="SAMPLES/CompetitionSamples/Exprestrings/Exorcist.wav" />
+		fileName="SAMPLES/Community Pack 1.2/Exprestrings/Exorcist.wav" />
 	<osc2
 		type="analogSaw"
 		transpose="-12"

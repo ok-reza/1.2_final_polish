@@ -19,7 +19,7 @@
 		<sampleRanges>
 			<sampleRange
 				rangeTopNote="26"
-				fileName="SAMPLES/CompetitionSamples/Rusty Blade/Rusty Blade-C0-127.wav"
+				fileName="SAMPLES/Community Pack 1.2/Rusty Blade/Rusty Blade-C0-127.wav"
 				transpose="36">
 				<zone
 					startSamplePos="0"
@@ -29,7 +29,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="30"
-				fileName="SAMPLES/CompetitionSamples/Rusty Blade/Rusty Blade-E0-127.wav"
+				fileName="SAMPLES/Community Pack 1.2/Rusty Blade/Rusty Blade-E0-127.wav"
 				transpose="32">
 				<zone
 					startSamplePos="0"
@@ -39,7 +39,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="34"
-				fileName="SAMPLES/CompetitionSamples/Rusty Blade/Rusty Blade-G#0-127.wav"
+				fileName="SAMPLES/Community Pack 1.2/Rusty Blade/Rusty Blade-G#0-127.wav"
 				transpose="28">
 				<zone
 					startSamplePos="0"
@@ -49,7 +49,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="38"
-				fileName="SAMPLES/CompetitionSamples/Rusty Blade/Rusty Blade-C1-127.wav"
+				fileName="SAMPLES/Community Pack 1.2/Rusty Blade/Rusty Blade-C1-127.wav"
 				transpose="24">
 				<zone
 					startSamplePos="0"
@@ -59,7 +59,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="42"
-				fileName="SAMPLES/CompetitionSamples/Rusty Blade/Rusty Blade-E1-127.wav"
+				fileName="SAMPLES/Community Pack 1.2/Rusty Blade/Rusty Blade-E1-127.wav"
 				transpose="20">
 				<zone
 					startSamplePos="0"
@@ -69,7 +69,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="46"
-				fileName="SAMPLES/CompetitionSamples/Rusty Blade/Rusty Blade-G#1-127.wav"
+				fileName="SAMPLES/Community Pack 1.2/Rusty Blade/Rusty Blade-G#1-127.wav"
 				transpose="16">
 				<zone
 					startSamplePos="0"
@@ -79,7 +79,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="50"
-				fileName="SAMPLES/CompetitionSamples/Rusty Blade/Rusty Blade-C2-127.wav"
+				fileName="SAMPLES/Community Pack 1.2/Rusty Blade/Rusty Blade-C2-127.wav"
 				transpose="12">
 				<zone
 					startSamplePos="0"
@@ -89,7 +89,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="54"
-				fileName="SAMPLES/CompetitionSamples/Rusty Blade/Rusty Blade-E2-127.wav"
+				fileName="SAMPLES/Community Pack 1.2/Rusty Blade/Rusty Blade-E2-127.wav"
 				transpose="8">
 				<zone
 					startSamplePos="0"
@@ -99,7 +99,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="58"
-				fileName="SAMPLES/CompetitionSamples/Rusty Blade/Rusty Blade-G#2-127.wav"
+				fileName="SAMPLES/Community Pack 1.2/Rusty Blade/Rusty Blade-G#2-127.wav"
 				transpose="4">
 				<zone
 					startSamplePos="0"
@@ -109,7 +109,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="62"
-				fileName="SAMPLES/CompetitionSamples/Rusty Blade/Rusty Blade-C3-127.wav">
+				fileName="SAMPLES/Community Pack 1.2/Rusty Blade/Rusty Blade-C3-127.wav">
 				<zone
 					startSamplePos="0"
 					endSamplePos="588451"
@@ -118,7 +118,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="66"
-				fileName="SAMPLES/CompetitionSamples/Rusty Blade/Rusty Blade-E3-127.wav"
+				fileName="SAMPLES/Community Pack 1.2/Rusty Blade/Rusty Blade-E3-127.wav"
 				transpose="-4">
 				<zone
 					startSamplePos="0"
@@ -128,7 +128,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="70"
-				fileName="SAMPLES/CompetitionSamples/Rusty Blade/Rusty Blade-G#3-127.wav"
+				fileName="SAMPLES/Community Pack 1.2/Rusty Blade/Rusty Blade-G#3-127.wav"
 				transpose="-8">
 				<zone
 					startSamplePos="0"
@@ -138,7 +138,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="74"
-				fileName="SAMPLES/CompetitionSamples/Rusty Blade/Rusty Blade-C4-127.wav"
+				fileName="SAMPLES/Community Pack 1.2/Rusty Blade/Rusty Blade-C4-127.wav"
 				transpose="-12">
 				<zone
 					startSamplePos="0"
@@ -148,7 +148,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="78"
-				fileName="SAMPLES/CompetitionSamples/Rusty Blade/Rusty Blade-E4-127.wav"
+				fileName="SAMPLES/Community Pack 1.2/Rusty Blade/Rusty Blade-E4-127.wav"
 				transpose="-16">
 				<zone
 					startSamplePos="0"
@@ -158,7 +158,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="82"
-				fileName="SAMPLES/CompetitionSamples/Rusty Blade/Rusty Blade-G#4-127.wav"
+				fileName="SAMPLES/Community Pack 1.2/Rusty Blade/Rusty Blade-G#4-127.wav"
 				transpose="-20">
 				<zone
 					startSamplePos="0"
@@ -168,7 +168,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="86"
-				fileName="SAMPLES/CompetitionSamples/Rusty Blade/Rusty Blade-C5-127.wav"
+				fileName="SAMPLES/Community Pack 1.2/Rusty Blade/Rusty Blade-C5-127.wav"
 				transpose="-24">
 				<zone
 					startSamplePos="0"
@@ -178,7 +178,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="90"
-				fileName="SAMPLES/CompetitionSamples/Rusty Blade/Rusty Blade-E5-127.wav"
+				fileName="SAMPLES/Community Pack 1.2/Rusty Blade/Rusty Blade-E5-127.wav"
 				transpose="-28">
 				<zone
 					startSamplePos="0"
@@ -188,7 +188,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="94"
-				fileName="SAMPLES/CompetitionSamples/Rusty Blade/Rusty Blade-G#5-127.wav"
+				fileName="SAMPLES/Community Pack 1.2/Rusty Blade/Rusty Blade-G#5-127.wav"
 				transpose="-32">
 				<zone
 					startSamplePos="0"
@@ -198,7 +198,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="98"
-				fileName="SAMPLES/CompetitionSamples/Rusty Blade/Rusty Blade-C6-127.wav"
+				fileName="SAMPLES/Community Pack 1.2/Rusty Blade/Rusty Blade-C6-127.wav"
 				transpose="-36">
 				<zone
 					startSamplePos="0"
@@ -208,7 +208,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="101"
-				fileName="SAMPLES/CompetitionSamples/Rusty Blade/Rusty Blade-E6-127.wav"
+				fileName="SAMPLES/Community Pack 1.2/Rusty Blade/Rusty Blade-E6-127.wav"
 				transpose="-40">
 				<zone
 					startSamplePos="0"
@@ -217,7 +217,7 @@
 					endLoopPos="184264" />
 			</sampleRange>
 			<sampleRange
-				fileName="SAMPLES/CompetitionSamples/Rusty Blade/Rusty Blade-G6-127.wav"
+				fileName="SAMPLES/Community Pack 1.2/Rusty Blade/Rusty Blade-G6-127.wav"
 				transpose="-43">
 				<zone
 					startSamplePos="0"
@@ -236,7 +236,7 @@
 		<sampleRanges>
 			<sampleRange
 				rangeTopNote="15"
-				fileName="SAMPLES/CompetitionSamples/Rusty Blade/12.c0.wav"
+				fileName="SAMPLES/Community Pack 1.2/Rusty Blade/12.c0.wav"
 				transpose="45"
 				cents="-38">
 				<zone
@@ -245,7 +245,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="18"
-				fileName="SAMPLES/CompetitionSamples/Rusty Blade/16.e0.wav"
+				fileName="SAMPLES/Community Pack 1.2/Rusty Blade/16.e0.wav"
 				transpose="44"
 				cents="-5">
 				<zone
@@ -254,7 +254,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="22"
-				fileName="SAMPLES/CompetitionSamples/Rusty Blade/20.g#0.wav"
+				fileName="SAMPLES/Community Pack 1.2/Rusty Blade/20.g#0.wav"
 				transpose="40"
 				cents="-5">
 				<zone
@@ -263,7 +263,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="25"
-				fileName="SAMPLES/CompetitionSamples/Rusty Blade/24.c1.wav"
+				fileName="SAMPLES/Community Pack 1.2/Rusty Blade/24.c1.wav"
 				transpose="36"
 				cents="1">
 				<zone
@@ -272,7 +272,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="30"
-				fileName="SAMPLES/CompetitionSamples/Rusty Blade/28.e1.wav"
+				fileName="SAMPLES/Community Pack 1.2/Rusty Blade/28.e1.wav"
 				transpose="32"
 				cents="2">
 				<zone
@@ -281,7 +281,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="34"
-				fileName="SAMPLES/CompetitionSamples/Rusty Blade/32.g#1.wav"
+				fileName="SAMPLES/Community Pack 1.2/Rusty Blade/32.g#1.wav"
 				transpose="28"
 				cents="-5">
 				<zone
@@ -290,7 +290,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="36"
-				fileName="SAMPLES/CompetitionSamples/Rusty Blade/36.c2.wav"
+				fileName="SAMPLES/Community Pack 1.2/Rusty Blade/36.c2.wav"
 				transpose="24">
 				<zone
 					startSamplePos="0"
@@ -298,7 +298,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="38"
-				fileName="SAMPLES/CompetitionSamples/Rusty Blade/40.e2.wav"
+				fileName="SAMPLES/Community Pack 1.2/Rusty Blade/40.e2.wav"
 				transpose="22"
 				cents="43">
 				<zone
@@ -307,7 +307,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="39"
-				fileName="SAMPLES/CompetitionSamples/Rusty Blade/48.c3.wav"
+				fileName="SAMPLES/Community Pack 1.2/Rusty Blade/48.c3.wav"
 				transpose="20"
 				cents="45">
 				<zone
@@ -316,7 +316,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="42"
-				fileName="SAMPLES/CompetitionSamples/Rusty Blade/52.e3.wav"
+				fileName="SAMPLES/Community Pack 1.2/Rusty Blade/52.e3.wav"
 				transpose="20"
 				cents="-1">
 				<zone
@@ -325,7 +325,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="45"
-				fileName="SAMPLES/CompetitionSamples/Rusty Blade/56.g#3.wav"
+				fileName="SAMPLES/Community Pack 1.2/Rusty Blade/56.g#3.wav"
 				transpose="16">
 				<zone
 					startSamplePos="0"
@@ -333,7 +333,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="50"
-				fileName="SAMPLES/CompetitionSamples/Rusty Blade/60.c4.wav"
+				fileName="SAMPLES/Community Pack 1.2/Rusty Blade/60.c4.wav"
 				transpose="12">
 				<zone
 					startSamplePos="0"
@@ -341,7 +341,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="54"
-				fileName="SAMPLES/CompetitionSamples/Rusty Blade/64.e4.wav"
+				fileName="SAMPLES/Community Pack 1.2/Rusty Blade/64.e4.wav"
 				transpose="8">
 				<zone
 					startSamplePos="0"
@@ -349,7 +349,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="57"
-				fileName="SAMPLES/CompetitionSamples/Rusty Blade/68.g#4.wav"
+				fileName="SAMPLES/Community Pack 1.2/Rusty Blade/68.g#4.wav"
 				transpose="4">
 				<zone
 					startSamplePos="0"
@@ -357,14 +357,14 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="62"
-				fileName="SAMPLES/CompetitionSamples/Rusty Blade/72.c5.wav">
+				fileName="SAMPLES/Community Pack 1.2/Rusty Blade/72.c5.wav">
 				<zone
 					startSamplePos="0"
 					endSamplePos="278360" />
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="66"
-				fileName="SAMPLES/CompetitionSamples/Rusty Blade/76.e5.wav"
+				fileName="SAMPLES/Community Pack 1.2/Rusty Blade/76.e5.wav"
 				transpose="-4"
 				cents="-1">
 				<zone
@@ -372,7 +372,7 @@
 					endSamplePos="277617" />
 			</sampleRange>
 			<sampleRange
-				fileName="SAMPLES/CompetitionSamples/Rusty Blade/80.g#5.wav"
+				fileName="SAMPLES/Community Pack 1.2/Rusty Blade/80.g#5.wav"
 				transpose="-8"
 				cents="-1">
 				<zone

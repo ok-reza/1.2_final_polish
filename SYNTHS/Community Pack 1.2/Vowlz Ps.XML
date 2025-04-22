@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <sound firmwareVersion="c1.2.0" earliestCompatibleFirmware="4.1.0-alpha" polyphonic="poly" voicePriority="1" mode="subtractive" modFXType="StereoChorus" lpfMode="24dB" hpfMode="HPLadder" filterRoute="H2L" clippingAmount="4" maxVoices="8">
-	<osc1 type="wavetable" transpose="0" cents="0" retrigPhase="-1" fileName="SAMPLES/CompetitionSamples/Vowlz Ps/multi vowel.wav" />
+	<osc1 type="wavetable" transpose="0" cents="0" retrigPhase="-1" fileName="SAMPLES/Community Pack 1.2/Vowlz Ps/multi vowel.wav" />
 	<osc2 type="square" transpose="0" cents="0" retrigPhase="-1" />
 	<lfo1 type="sah" syncLevel="5" syncType="0" />
 	<lfo2 type="sine" syncLevel="0" syncType="0" />

@@ -75,7 +75,7 @@
 				reversed="0"
 				timeStretchEnable="0"
 				timeStretchAmount="0"
-				fileName="SAMPLES/CompetitionSamples/Geo/Stone01.wav">
+				fileName="SAMPLES/Community Pack 1.2/Geo/Stone01.wav">
 				<zone
 					startSamplePos="0"
 					endSamplePos="7080" />
@@ -230,7 +230,7 @@
 				reversed="0"
 				timeStretchEnable="0"
 				timeStretchAmount="0"
-				fileName="SAMPLES/CompetitionSamples/Geo/Ground01.wav">
+				fileName="SAMPLES/Community Pack 1.2/Geo/Ground01.wav">
 				<zone
 					startSamplePos="0"
 					endSamplePos="7080" />
@@ -385,7 +385,7 @@
 				reversed="0"
 				timeStretchEnable="0"
 				timeStretchAmount="0"
-				fileName="SAMPLES/CompetitionSamples/Geo/Wood01.wav">
+				fileName="SAMPLES/Community Pack 1.2/Geo/Wood01.wav">
 				<zone
 					startSamplePos="0"
 					endSamplePos="7080" />
@@ -540,7 +540,7 @@
 				reversed="0"
 				timeStretchEnable="0"
 				timeStretchAmount="0"
-				fileName="SAMPLES/CompetitionSamples/Geo/Rock07.wav">
+				fileName="SAMPLES/Community Pack 1.2/Geo/Rock07.wav">
 				<zone
 					startSamplePos="0"
 					endSamplePos="8971" />
@@ -695,7 +695,7 @@
 				reversed="0"
 				timeStretchEnable="0"
 				timeStretchAmount="0"
-				fileName="SAMPLES/CompetitionSamples/Geo/Gravel01.wav">
+				fileName="SAMPLES/Community Pack 1.2/Geo/Gravel01.wav">
 				<zone
 					startSamplePos="0"
 					endSamplePos="10283" />
@@ -850,7 +850,7 @@
 				reversed="0"
 				timeStretchEnable="0"
 				timeStretchAmount="0"
-				fileName="SAMPLES/CompetitionSamples/Geo/Foliage01.wav">
+				fileName="SAMPLES/Community Pack 1.2/Geo/Foliage01.wav">
 				<zone
 					startSamplePos="0"
 					endSamplePos="18964" />
@@ -1005,7 +1005,7 @@
 				reversed="0"
 				timeStretchEnable="0"
 				timeStretchAmount="0"
-				fileName="SAMPLES/CompetitionSamples/Geo/Leaves05.wav">
+				fileName="SAMPLES/Community Pack 1.2/Geo/Leaves05.wav">
 				<zone
 					startSamplePos="0"
 					endSamplePos="15592" />
@@ -1160,7 +1160,7 @@
 				reversed="0"
 				timeStretchEnable="0"
 				timeStretchAmount="0"
-				fileName="SAMPLES/CompetitionSamples/Geo/Gravel03.wav">
+				fileName="SAMPLES/Community Pack 1.2/Geo/Gravel03.wav">
 				<zone
 					startSamplePos="0"
 					endSamplePos="8558" />

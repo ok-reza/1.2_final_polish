@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <sound firmwareVersion="c1.2.0" earliestCompatibleFirmware="4.1.0-alpha" polyphonic="poly" voicePriority="1" mode="subtractive" modFXType="StereoChorus" lpfMode="SVF_Band" hpfMode="HPLadder" filterRoute="H2L" maxVoices="8">
-	<osc1 type="sample" loopMode="2" reversed="0" timeStretchEnable="0" timeStretchAmount="0" fileName="SAMPLES/CompetitionSamples/Jupo Pad Lead/Juno Left.wav">
+	<osc1 type="sample" loopMode="2" reversed="0" timeStretchEnable="0" timeStretchAmount="0" fileName="SAMPLES/Community Pack 1.2/Jupo Pad Lead/Juno Left.wav">
 		<zone startSamplePos="0" endSamplePos="733" />
 	</osc1>
-	<osc2 type="sample" loopMode="2" reversed="0" timeStretchEnable="0" timeStretchAmount="0" fileName="SAMPLES/CompetitionSamples/Jupo Pad Lead/Jupiter Right.wav" cents="38">
+	<osc2 type="sample" loopMode="2" reversed="0" timeStretchEnable="0" timeStretchAmount="0" fileName="SAMPLES/Community Pack 1.2/Jupo Pad Lead/Jupiter Right.wav" cents="38">
 		<zone startSamplePos="0" endSamplePos="750" />
 	</osc2>
 	<lfo1 type="triangle" syncLevel="0" syncType="0" />

@@ -19,7 +19,7 @@
 		<sampleRanges>
 			<sampleRange
 				rangeTopNote="4"
-				fileName="SAMPLES/CompetitionSamples/Saumur Piano/1.wav"
+				fileName="SAMPLES/Community Pack 1.2/Saumur Piano/1.wav"
 				transpose="82"
 				cents="4">
 				<zone
@@ -28,7 +28,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="39"
-				fileName="SAMPLES/CompetitionSamples/Saumur Piano/2.wav"
+				fileName="SAMPLES/Community Pack 1.2/Saumur Piano/2.wav"
 				transpose="29"
 				cents="-46">
 				<zone
@@ -37,7 +37,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="49"
-				fileName="SAMPLES/CompetitionSamples/Saumur Piano/3.wav"
+				fileName="SAMPLES/Community Pack 1.2/Saumur Piano/3.wav"
 				transpose="12"
 				cents="-34">
 				<zone
@@ -46,7 +46,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="53"
-				fileName="SAMPLES/CompetitionSamples/Saumur Piano/5.wav"
+				fileName="SAMPLES/Community Pack 1.2/Saumur Piano/5.wav"
 				transpose="10"
 				cents="-32">
 				<zone
@@ -55,7 +55,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="60"
-				fileName="SAMPLES/CompetitionSamples/Saumur Piano/6.wav"
+				fileName="SAMPLES/Community Pack 1.2/Saumur Piano/6.wav"
 				transpose="3"
 				cents="-42">
 				<zone
@@ -64,7 +64,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="67"
-				fileName="SAMPLES/CompetitionSamples/Saumur Piano/7.wav"
+				fileName="SAMPLES/Community Pack 1.2/Saumur Piano/7.wav"
 				transpose="-4"
 				cents="-44">
 				<zone
@@ -73,7 +73,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="74"
-				fileName="SAMPLES/CompetitionSamples/Saumur Piano/8.wav"
+				fileName="SAMPLES/Community Pack 1.2/Saumur Piano/8.wav"
 				transpose="-11"
 				cents="-43">
 				<zone
@@ -82,7 +82,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="81"
-				fileName="SAMPLES/CompetitionSamples/Saumur Piano/9.wav"
+				fileName="SAMPLES/Community Pack 1.2/Saumur Piano/9.wav"
 				transpose="-18"
 				cents="-36">
 				<zone
@@ -91,7 +91,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="88"
-				fileName="SAMPLES/CompetitionSamples/Saumur Piano/10.wav"
+				fileName="SAMPLES/Community Pack 1.2/Saumur Piano/10.wav"
 				transpose="-25"
 				cents="-39">
 				<zone
@@ -100,7 +100,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="95"
-				fileName="SAMPLES/CompetitionSamples/Saumur Piano/11.wav"
+				fileName="SAMPLES/Community Pack 1.2/Saumur Piano/11.wav"
 				transpose="-32"
 				cents="-40">
 				<zone
@@ -108,7 +108,7 @@
 					endSamplePos="147123" />
 			</sampleRange>
 			<sampleRange
-				fileName="SAMPLES/CompetitionSamples/Saumur Piano/12.wav"
+				fileName="SAMPLES/Community Pack 1.2/Saumur Piano/12.wav"
 				transpose="-39"
 				cents="-22">
 				<zone

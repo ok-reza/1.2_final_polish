@@ -15,7 +15,7 @@
 		transpose="-12"
 		cents="0"
 		retrigPhase="-1"
-		fileName="SAMPLES/CompetitionSamples/A Scw 02/folded.wav" />
+		fileName="SAMPLES/Community Pack 1.2/A Scw 02/folded.wav" />
 	<osc2
 		type="square"
 		transpose="0"

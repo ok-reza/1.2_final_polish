@@ -16,7 +16,7 @@
 		reversed="0"
 		timeStretchEnable="0"
 		timeStretchAmount="0"
-		fileName="SAMPLES/CompetitionSamples/Everything/Left.wav"
+		fileName="SAMPLES/Community Pack 1.2/Everything/Left.wav"
 		cents="-1">
 		<zone
 			startSamplePos="0"
@@ -30,7 +30,7 @@
 		reversed="0"
 		timeStretchEnable="0"
 		timeStretchAmount="0"
-		fileName="SAMPLES/CompetitionSamples/Everything/Right.wav"
+		fileName="SAMPLES/Community Pack 1.2/Everything/Right.wav"
 		cents="-1">
 		<zone
 			startSamplePos="0"

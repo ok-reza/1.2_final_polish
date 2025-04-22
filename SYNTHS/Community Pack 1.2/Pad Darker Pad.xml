@@ -2,15 +2,15 @@
 <sound firmwareVersion="3.1.4" earliestCompatibleFirmware="3.1.0-beta" polyphonic="poly" voicePriority="1" mode="subtractive" lpfMode="24dB" modFXType="none">
 <osc1 type="sample" loopMode="0" reversed="0" timeStretchEnable="0" timeStretchAmount="0">
 	<sampleRanges>
-		<sampleRange rangeTopNote="38" fileName="SAMPLES/CompetitionSamples/Pad Darker Pad/Pad Darker Pad C1.WAV" transpose="24" cents="0">
+		<sampleRange rangeTopNote="38" fileName="SAMPLES/Community Pack 1.2/Pad Darker Pad/Pad Darker Pad C1.WAV" transpose="24" cents="0">
 			<zone startSamplePos="0" endSamplePos="382821" />	</sampleRange>
-		<sampleRange rangeTopNote="50" fileName="SAMPLES/CompetitionSamples/Pad Darker Pad/Pad Darker Pad C2.WAV" transpose="12" cents="0">
+		<sampleRange rangeTopNote="50" fileName="SAMPLES/Community Pack 1.2/Pad Darker Pad/Pad Darker Pad C2.WAV" transpose="12" cents="0">
 			<zone startSamplePos="0" endSamplePos="382821" />	</sampleRange>
-		<sampleRange rangeTopNote="62" fileName="SAMPLES/CompetitionSamples/Pad Darker Pad/Pad Darker Pad C3.WAV" transpose="0" cents="0">
+		<sampleRange rangeTopNote="62" fileName="SAMPLES/Community Pack 1.2/Pad Darker Pad/Pad Darker Pad C3.WAV" transpose="0" cents="0">
 			<zone startSamplePos="0" endSamplePos="382821" />	</sampleRange>
-		<sampleRange rangeTopNote="74" fileName="SAMPLES/CompetitionSamples/Pad Darker Pad/Pad Darker Pad C4.WAV" transpose="-12" cents="0">
+		<sampleRange rangeTopNote="74" fileName="SAMPLES/Community Pack 1.2/Pad Darker Pad/Pad Darker Pad C4.WAV" transpose="-12" cents="0">
 			<zone startSamplePos="0" endSamplePos="382821" />	</sampleRange>
-		<sampleRange rangeTopNote="86" fileName="SAMPLES/CompetitionSamples/Pad Darker Pad/Pad Darker Pad C5.WAV" transpose="-24" cents="0">
+		<sampleRange rangeTopNote="86" fileName="SAMPLES/Community Pack 1.2/Pad Darker Pad/Pad Darker Pad C5.WAV" transpose="-24" cents="0">
 			<zone startSamplePos="0" endSamplePos="382821" />	</sampleRange>
 </sampleRanges>
 </osc1>

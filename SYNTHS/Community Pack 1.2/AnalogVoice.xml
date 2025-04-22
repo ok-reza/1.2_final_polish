@@ -19,7 +19,7 @@
 		<sampleRanges>
 			<sampleRange
 				rangeTopNote="38"
-				fileName="SAMPLES/CompetitionSamples/AnalogVoice/AnalogVoice c1.wav"
+				fileName="SAMPLES/Community Pack 1.2/AnalogVoice/AnalogVoice c1.wav"
 				transpose="24">
 				<zone
 					startSamplePos="0"
@@ -27,7 +27,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="44"
-				fileName="SAMPLES/CompetitionSamples/AnalogVoice/AnalogVoice f#1.wav"
+				fileName="SAMPLES/Community Pack 1.2/AnalogVoice/AnalogVoice f#1.wav"
 				transpose="18">
 				<zone
 					startSamplePos="0"
@@ -35,7 +35,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="50"
-				fileName="SAMPLES/CompetitionSamples/AnalogVoice/AnalogVoice c2.wav"
+				fileName="SAMPLES/Community Pack 1.2/AnalogVoice/AnalogVoice c2.wav"
 				transpose="12">
 				<zone
 					startSamplePos="0"
@@ -43,7 +43,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="56"
-				fileName="SAMPLES/CompetitionSamples/AnalogVoice/AnalogVoice f#2.wav"
+				fileName="SAMPLES/Community Pack 1.2/AnalogVoice/AnalogVoice f#2.wav"
 				transpose="6">
 				<zone
 					startSamplePos="0"
@@ -51,14 +51,14 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="62"
-				fileName="SAMPLES/CompetitionSamples/AnalogVoice/AnalogVoice c3.wav">
+				fileName="SAMPLES/Community Pack 1.2/AnalogVoice/AnalogVoice c3.wav">
 				<zone
 					startSamplePos="0"
 					endSamplePos="382821" />
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="68"
-				fileName="SAMPLES/CompetitionSamples/AnalogVoice/AnalogVoice f#3.wav"
+				fileName="SAMPLES/Community Pack 1.2/AnalogVoice/AnalogVoice f#3.wav"
 				transpose="-6">
 				<zone
 					startSamplePos="0"
@@ -66,7 +66,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="74"
-				fileName="SAMPLES/CompetitionSamples/AnalogVoice/AnalogVoice c4.wav"
+				fileName="SAMPLES/Community Pack 1.2/AnalogVoice/AnalogVoice c4.wav"
 				transpose="-12">
 				<zone
 					startSamplePos="0"
@@ -74,14 +74,14 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="80"
-				fileName="SAMPLES/CompetitionSamples/AnalogVoice/AnalogVoice f#4.wav"
+				fileName="SAMPLES/Community Pack 1.2/AnalogVoice/AnalogVoice f#4.wav"
 				transpose="-18">
 				<zone
 					startSamplePos="0"
 					endSamplePos="382821" />
 			</sampleRange>
 			<sampleRange
-				fileName="SAMPLES/CompetitionSamples/AnalogVoice/AnalogVoice c5.wav"
+				fileName="SAMPLES/Community Pack 1.2/AnalogVoice/AnalogVoice c5.wav"
 				transpose="-24">
 				<zone
 					startSamplePos="0"

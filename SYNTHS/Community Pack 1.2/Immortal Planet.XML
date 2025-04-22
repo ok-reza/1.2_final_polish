@@ -19,7 +19,7 @@
 		<sampleRanges>
 			<sampleRange
 				rangeTopNote="24"
-				fileName="SAMPLES/CompetitionSamples/Immortal Planet/LAB - IP - c2.wav"
+				fileName="SAMPLES/Community Pack 1.2/Immortal Planet/LAB - IP - c2.wav"
 				transpose="36"
 				cents="3">
 				<zone
@@ -28,7 +28,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="26"
-				fileName="SAMPLES/CompetitionSamples/Immortal Planet/LAB - IP - d2.wav"
+				fileName="SAMPLES/Community Pack 1.2/Immortal Planet/LAB - IP - d2.wav"
 				transpose="34"
 				cents="4">
 				<zone
@@ -37,7 +37,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="28"
-				fileName="SAMPLES/CompetitionSamples/Immortal Planet/LAB - IP - e2.wav"
+				fileName="SAMPLES/Community Pack 1.2/Immortal Planet/LAB - IP - e2.wav"
 				transpose="32"
 				cents="-1">
 				<zone
@@ -46,7 +46,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="29"
-				fileName="SAMPLES/CompetitionSamples/Immortal Planet/LAB - IP - f2.wav"
+				fileName="SAMPLES/Community Pack 1.2/Immortal Planet/LAB - IP - f2.wav"
 				transpose="31"
 				cents="3">
 				<zone
@@ -55,7 +55,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="31"
-				fileName="SAMPLES/CompetitionSamples/Immortal Planet/LAB - IP - g2.wav"
+				fileName="SAMPLES/Community Pack 1.2/Immortal Planet/LAB - IP - g2.wav"
 				transpose="29"
 				cents="5">
 				<zone
@@ -64,7 +64,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="33"
-				fileName="SAMPLES/CompetitionSamples/Immortal Planet/LAB - IP - a2.wav"
+				fileName="SAMPLES/Community Pack 1.2/Immortal Planet/LAB - IP - a2.wav"
 				transpose="27"
 				cents="6">
 				<zone
@@ -73,7 +73,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="35"
-				fileName="SAMPLES/CompetitionSamples/Immortal Planet/LAB - IP - b2.wav"
+				fileName="SAMPLES/Community Pack 1.2/Immortal Planet/LAB - IP - b2.wav"
 				transpose="25"
 				cents="3">
 				<zone
@@ -82,7 +82,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="37"
-				fileName="SAMPLES/CompetitionSamples/Immortal Planet/LAB - IP - c3.wav"
+				fileName="SAMPLES/Community Pack 1.2/Immortal Planet/LAB - IP - c3.wav"
 				transpose="24"
 				cents="-6">
 				<zone
@@ -91,7 +91,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="38"
-				fileName="SAMPLES/CompetitionSamples/Immortal Planet/LAB - IP - d3.wav"
+				fileName="SAMPLES/Community Pack 1.2/Immortal Planet/LAB - IP - d3.wav"
 				transpose="22"
 				cents="6">
 				<zone
@@ -100,7 +100,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="40"
-				fileName="SAMPLES/CompetitionSamples/Immortal Planet/LAB - IP - e3.wav"
+				fileName="SAMPLES/Community Pack 1.2/Immortal Planet/LAB - IP - e3.wav"
 				transpose="20"
 				cents="17">
 				<zone
@@ -109,7 +109,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="41"
-				fileName="SAMPLES/CompetitionSamples/Immortal Planet/LAB - IP - f3.wav"
+				fileName="SAMPLES/Community Pack 1.2/Immortal Planet/LAB - IP - f3.wav"
 				transpose="19"
 				cents="-5">
 				<zone
@@ -118,7 +118,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="43"
-				fileName="SAMPLES/CompetitionSamples/Immortal Planet/LAB - IP - g3.wav"
+				fileName="SAMPLES/Community Pack 1.2/Immortal Planet/LAB - IP - g3.wav"
 				transpose="17"
 				cents="7">
 				<zone
@@ -127,7 +127,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="46"
-				fileName="SAMPLES/CompetitionSamples/Immortal Planet/LAB - IP - a3.wav"
+				fileName="SAMPLES/Community Pack 1.2/Immortal Planet/LAB - IP - a3.wav"
 				transpose="15"
 				cents="-7">
 				<zone
@@ -136,7 +136,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="47"
-				fileName="SAMPLES/CompetitionSamples/Immortal Planet/LAB - IP - b3.wav"
+				fileName="SAMPLES/Community Pack 1.2/Immortal Planet/LAB - IP - b3.wav"
 				transpose="13"
 				cents="-1">
 				<zone
@@ -145,7 +145,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="49"
-				fileName="SAMPLES/CompetitionSamples/Immortal Planet/LAB - IP - c4.wav"
+				fileName="SAMPLES/Community Pack 1.2/Immortal Planet/LAB - IP - c4.wav"
 				transpose="12"
 				cents="6">
 				<zone
@@ -154,7 +154,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="51"
-				fileName="SAMPLES/CompetitionSamples/Immortal Planet/LAB - IP - d4.wav"
+				fileName="SAMPLES/Community Pack 1.2/Immortal Planet/LAB - IP - d4.wav"
 				transpose="10"
 				cents="-6">
 				<zone
@@ -163,7 +163,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="52"
-				fileName="SAMPLES/CompetitionSamples/Immortal Planet/LAB - IP - e4.wav"
+				fileName="SAMPLES/Community Pack 1.2/Immortal Planet/LAB - IP - e4.wav"
 				transpose="8"
 				cents="-8">
 				<zone
@@ -172,7 +172,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="54"
-				fileName="SAMPLES/CompetitionSamples/Immortal Planet/LAB - IP - f4.wav"
+				fileName="SAMPLES/Community Pack 1.2/Immortal Planet/LAB - IP - f4.wav"
 				transpose="7">
 				<zone
 					startSamplePos="0"
@@ -180,7 +180,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="56"
-				fileName="SAMPLES/CompetitionSamples/Immortal Planet/LAB - IP - g4.wav"
+				fileName="SAMPLES/Community Pack 1.2/Immortal Planet/LAB - IP - g4.wav"
 				transpose="5"
 				cents="-5">
 				<zone
@@ -189,7 +189,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="57"
-				fileName="SAMPLES/CompetitionSamples/Immortal Planet/LAB - IP - a4.wav"
+				fileName="SAMPLES/Community Pack 1.2/Immortal Planet/LAB - IP - a4.wav"
 				transpose="3"
 				cents="3">
 				<zone
@@ -198,7 +198,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="59"
-				fileName="SAMPLES/CompetitionSamples/Immortal Planet/LAB - IP - b4.wav"
+				fileName="SAMPLES/Community Pack 1.2/Immortal Planet/LAB - IP - b4.wav"
 				transpose="1">
 				<zone
 					startSamplePos="0"
@@ -206,7 +206,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="61"
-				fileName="SAMPLES/CompetitionSamples/Immortal Planet/LAB - IP - c5.wav"
+				fileName="SAMPLES/Community Pack 1.2/Immortal Planet/LAB - IP - c5.wav"
 				cents="-8">
 				<zone
 					startSamplePos="0"
@@ -214,7 +214,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="63"
-				fileName="SAMPLES/CompetitionSamples/Immortal Planet/LAB - IP - d5.wav"
+				fileName="SAMPLES/Community Pack 1.2/Immortal Planet/LAB - IP - d5.wav"
 				transpose="-2"
 				cents="4">
 				<zone
@@ -223,7 +223,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="64"
-				fileName="SAMPLES/CompetitionSamples/Immortal Planet/LAB - IP - e5.wav"
+				fileName="SAMPLES/Community Pack 1.2/Immortal Planet/LAB - IP - e5.wav"
 				transpose="-4"
 				cents="-10">
 				<zone
@@ -232,7 +232,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="65"
-				fileName="SAMPLES/CompetitionSamples/Immortal Planet/LAB - IP - f5.wav"
+				fileName="SAMPLES/Community Pack 1.2/Immortal Planet/LAB - IP - f5.wav"
 				transpose="-5"
 				cents="1">
 				<zone
@@ -241,7 +241,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="67"
-				fileName="SAMPLES/CompetitionSamples/Immortal Planet/LAB - IP - g5.wav"
+				fileName="SAMPLES/Community Pack 1.2/Immortal Planet/LAB - IP - g5.wav"
 				transpose="-7"
 				cents="3">
 				<zone
@@ -250,7 +250,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="69"
-				fileName="SAMPLES/CompetitionSamples/Immortal Planet/LAB - IP - a5.wav"
+				fileName="SAMPLES/Community Pack 1.2/Immortal Planet/LAB - IP - a5.wav"
 				transpose="-9"
 				cents="3">
 				<zone
@@ -259,7 +259,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="71"
-				fileName="SAMPLES/CompetitionSamples/Immortal Planet/LAB - IP - b5.wav"
+				fileName="SAMPLES/Community Pack 1.2/Immortal Planet/LAB - IP - b5.wav"
 				transpose="-11"
 				cents="-1">
 				<zone
@@ -268,7 +268,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="73"
-				fileName="SAMPLES/CompetitionSamples/Immortal Planet/LAB - IP - c6.wav"
+				fileName="SAMPLES/Community Pack 1.2/Immortal Planet/LAB - IP - c6.wav"
 				transpose="-12">
 				<zone
 					startSamplePos="0"
@@ -276,7 +276,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="75"
-				fileName="SAMPLES/CompetitionSamples/Immortal Planet/LAB - IP - d6.wav"
+				fileName="SAMPLES/Community Pack 1.2/Immortal Planet/LAB - IP - d6.wav"
 				transpose="-14">
 				<zone
 					startSamplePos="0"
@@ -284,7 +284,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="76"
-				fileName="SAMPLES/CompetitionSamples/Immortal Planet/LAB - IP - e6.wav"
+				fileName="SAMPLES/Community Pack 1.2/Immortal Planet/LAB - IP - e6.wav"
 				transpose="-16">
 				<zone
 					startSamplePos="0"
@@ -292,7 +292,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="78"
-				fileName="SAMPLES/CompetitionSamples/Immortal Planet/LAB - IP - f6.wav"
+				fileName="SAMPLES/Community Pack 1.2/Immortal Planet/LAB - IP - f6.wav"
 				transpose="-17"
 				cents="-2">
 				<zone
@@ -301,7 +301,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="79"
-				fileName="SAMPLES/CompetitionSamples/Immortal Planet/LAB - IP - g6.wav"
+				fileName="SAMPLES/Community Pack 1.2/Immortal Planet/LAB - IP - g6.wav"
 				transpose="-19">
 				<zone
 					startSamplePos="0"
@@ -309,7 +309,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="81"
-				fileName="SAMPLES/CompetitionSamples/Immortal Planet/LAB - IP - a6.wav"
+				fileName="SAMPLES/Community Pack 1.2/Immortal Planet/LAB - IP - a6.wav"
 				transpose="-21">
 				<zone
 					startSamplePos="0"
@@ -317,7 +317,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="83"
-				fileName="SAMPLES/CompetitionSamples/Immortal Planet/LAB - IP - b6.wav"
+				fileName="SAMPLES/Community Pack 1.2/Immortal Planet/LAB - IP - b6.wav"
 				transpose="-23"
 				cents="1">
 				<zone
@@ -325,7 +325,7 @@
 					endSamplePos="404535" />
 			</sampleRange>
 			<sampleRange
-				fileName="SAMPLES/CompetitionSamples/Immortal Planet/LAB - IP - c7.wav"
+				fileName="SAMPLES/Community Pack 1.2/Immortal Planet/LAB - IP - c7.wav"
 				transpose="-24"
 				cents="1">
 				<zone

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <sound firmwareVersion="c1.2.0" earliestCompatibleFirmware="4.1.0-alpha" polyphonic="poly" voicePriority="1" mode="subtractive" modFXType="StereoChorus" lpfMode="24dB" hpfMode="HPLadder" filterRoute="H2L" maxVoices="16">
-	<osc1 type="wavetable" transpose="0" cents="0" retrigPhase="-1" fileName="SAMPLES/CompetitionSamples/Vibes WT/21-AdditivMix VI.wav" />
+	<osc1 type="wavetable" transpose="0" cents="0" retrigPhase="-1" fileName="SAMPLES/Community Pack 1.2/Vibes WT/21-AdditivMix VI.wav" />
 	<osc2 type="triangle" transpose="12" cents="0" retrigPhase="-1" />
 	<lfo1 type="triangle" syncLevel="0" syncType="0" />
 	<lfo2 type="sine" syncLevel="0" syncType="0" />

@@ -19,7 +19,7 @@
 		<sampleRanges>
 			<sampleRange
 				rangeTopNote="26"
-				fileName="SAMPLES/CompetitionSamples/Sirin Wah/Sirin Wah C1.wav"
+				fileName="SAMPLES/Community Pack 1.2/Sirin Wah/Sirin Wah C1.wav"
 				transpose="36"
 				cents="-1">
 				<zone
@@ -28,7 +28,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="30"
-				fileName="SAMPLES/CompetitionSamples/Sirin Wah/Sirin Wah E1.wav"
+				fileName="SAMPLES/Community Pack 1.2/Sirin Wah/Sirin Wah E1.wav"
 				transpose="32"
 				cents="-15">
 				<zone
@@ -37,7 +37,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="34"
-				fileName="SAMPLES/CompetitionSamples/Sirin Wah/Sirin Wah G#1.wav"
+				fileName="SAMPLES/Community Pack 1.2/Sirin Wah/Sirin Wah G#1.wav"
 				transpose="28"
 				cents="-15">
 				<zone
@@ -46,7 +46,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="38"
-				fileName="SAMPLES/CompetitionSamples/Sirin Wah/Sirin Wah C2.wav"
+				fileName="SAMPLES/Community Pack 1.2/Sirin Wah/Sirin Wah C2.wav"
 				transpose="24"
 				cents="-18">
 				<zone
@@ -55,7 +55,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="42"
-				fileName="SAMPLES/CompetitionSamples/Sirin Wah/Sirin Wah E2.wav"
+				fileName="SAMPLES/Community Pack 1.2/Sirin Wah/Sirin Wah E2.wav"
 				transpose="20"
 				cents="-6">
 				<zone
@@ -64,7 +64,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="46"
-				fileName="SAMPLES/CompetitionSamples/Sirin Wah/Sirin Wah G#2.wav"
+				fileName="SAMPLES/Community Pack 1.2/Sirin Wah/Sirin Wah G#2.wav"
 				transpose="16"
 				cents="-5">
 				<zone
@@ -73,7 +73,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="50"
-				fileName="SAMPLES/CompetitionSamples/Sirin Wah/Sirin Wah C3.wav"
+				fileName="SAMPLES/Community Pack 1.2/Sirin Wah/Sirin Wah C3.wav"
 				transpose="12"
 				cents="-1">
 				<zone
@@ -82,7 +82,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="54"
-				fileName="SAMPLES/CompetitionSamples/Sirin Wah/Sirin Wah E3.wav"
+				fileName="SAMPLES/Community Pack 1.2/Sirin Wah/Sirin Wah E3.wav"
 				transpose="8"
 				cents="-10">
 				<zone
@@ -91,7 +91,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="58"
-				fileName="SAMPLES/CompetitionSamples/Sirin Wah/Sirin Wah G#3.wav"
+				fileName="SAMPLES/Community Pack 1.2/Sirin Wah/Sirin Wah G#3.wav"
 				transpose="4"
 				cents="-12">
 				<zone
@@ -99,7 +99,7 @@
 					endSamplePos="264600" />
 			</sampleRange>
 			<sampleRange
-				fileName="SAMPLES/CompetitionSamples/Sirin Wah/Sirin Wah C4.wav"
+				fileName="SAMPLES/Community Pack 1.2/Sirin Wah/Sirin Wah C4.wav"
 				cents="-6">
 				<zone
 					startSamplePos="0"

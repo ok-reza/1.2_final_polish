@@ -17,7 +17,7 @@
 		timeStretchEnable="1"
 		timeStretchAmount="9"
 		linearInterpolation="1"
-		fileName="SAMPLES/CompetitionSamples/Stub/Jarble Lead.wav">
+		fileName="SAMPLES/Community Pack 1.2/Stub/Jarble Lead.wav">
 		<zone
 			startSamplePos="11686"
 			endSamplePos="26460" />

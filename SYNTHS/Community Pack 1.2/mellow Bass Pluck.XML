@@ -20,7 +20,7 @@
 		<sampleRanges>
 			<sampleRange
 				rangeTopNote="23"
-				fileName="SAMPLES/CompetitionSamples/mellow Bass Pluck/BassPluck-A-1-127.wav"
+				fileName="SAMPLES/Community Pack 1.2/mellow Bass Pluck/BassPluck-A-1-127.wav"
 				transpose="39">
 				<zone
 					startSamplePos="0"
@@ -29,7 +29,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="28"
-				fileName="SAMPLES/CompetitionSamples/mellow Bass Pluck/BassPluck-D0-127.wav"
+				fileName="SAMPLES/Community Pack 1.2/mellow Bass Pluck/BassPluck-D0-127.wav"
 				transpose="34">
 				<zone
 					startSamplePos="0"
@@ -39,7 +39,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="33"
-				fileName="SAMPLES/CompetitionSamples/mellow Bass Pluck/BassPluck-G0-127.wav"
+				fileName="SAMPLES/Community Pack 1.2/mellow Bass Pluck/BassPluck-G0-127.wav"
 				transpose="29">
 				<zone
 					startSamplePos="0"
@@ -49,7 +49,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="38"
-				fileName="SAMPLES/CompetitionSamples/mellow Bass Pluck/BassPluck-C1-127.wav"
+				fileName="SAMPLES/Community Pack 1.2/mellow Bass Pluck/BassPluck-C1-127.wav"
 				transpose="24">
 				<zone
 					startSamplePos="0"
@@ -59,7 +59,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="43"
-				fileName="SAMPLES/CompetitionSamples/mellow Bass Pluck/BassPluck-F1-127.wav"
+				fileName="SAMPLES/Community Pack 1.2/mellow Bass Pluck/BassPluck-F1-127.wav"
 				transpose="19">
 				<zone
 					startSamplePos="0"
@@ -69,7 +69,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="48"
-				fileName="SAMPLES/CompetitionSamples/mellow Bass Pluck/BassPluck-A#1-127.wav"
+				fileName="SAMPLES/Community Pack 1.2/mellow Bass Pluck/BassPluck-A#1-127.wav"
 				transpose="14">
 				<zone
 					startSamplePos="0"
@@ -79,7 +79,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="53"
-				fileName="SAMPLES/CompetitionSamples/mellow Bass Pluck/BassPluck-D#2-127.wav"
+				fileName="SAMPLES/Community Pack 1.2/mellow Bass Pluck/BassPluck-D#2-127.wav"
 				transpose="9">
 				<zone
 					startSamplePos="0"
@@ -89,7 +89,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="58"
-				fileName="SAMPLES/CompetitionSamples/mellow Bass Pluck/BassPluck-G#2-127.wav"
+				fileName="SAMPLES/Community Pack 1.2/mellow Bass Pluck/BassPluck-G#2-127.wav"
 				transpose="4">
 				<zone
 					startSamplePos="0"
@@ -99,7 +99,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="63"
-				fileName="SAMPLES/CompetitionSamples/mellow Bass Pluck/BassPluck-C#3-127.wav"
+				fileName="SAMPLES/Community Pack 1.2/mellow Bass Pluck/BassPluck-C#3-127.wav"
 				transpose="-1">
 				<zone
 					startSamplePos="0"
@@ -109,7 +109,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="68"
-				fileName="SAMPLES/CompetitionSamples/mellow Bass Pluck/BassPluck-F#3-127.wav"
+				fileName="SAMPLES/Community Pack 1.2/mellow Bass Pluck/BassPluck-F#3-127.wav"
 				transpose="-6">
 				<zone
 					startSamplePos="0"
@@ -119,7 +119,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="73"
-				fileName="SAMPLES/CompetitionSamples/mellow Bass Pluck/BassPluck-B3-127.wav"
+				fileName="SAMPLES/Community Pack 1.2/mellow Bass Pluck/BassPluck-B3-127.wav"
 				transpose="-11">
 				<zone
 					startSamplePos="0"
@@ -129,7 +129,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="78"
-				fileName="SAMPLES/CompetitionSamples/mellow Bass Pluck/BassPluck-E4-127.wav"
+				fileName="SAMPLES/Community Pack 1.2/mellow Bass Pluck/BassPluck-E4-127.wav"
 				transpose="-16">
 				<zone
 					startSamplePos="0"
@@ -139,7 +139,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="83"
-				fileName="SAMPLES/CompetitionSamples/mellow Bass Pluck/BassPluck-A4-127.wav"
+				fileName="SAMPLES/Community Pack 1.2/mellow Bass Pluck/BassPluck-A4-127.wav"
 				transpose="-21">
 				<zone
 					startSamplePos="0"
@@ -149,7 +149,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="88"
-				fileName="SAMPLES/CompetitionSamples/mellow Bass Pluck/BassPluck-D5-127.wav"
+				fileName="SAMPLES/Community Pack 1.2/mellow Bass Pluck/BassPluck-D5-127.wav"
 				transpose="-26">
 				<zone
 					startSamplePos="0"
@@ -159,7 +159,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="93"
-				fileName="SAMPLES/CompetitionSamples/mellow Bass Pluck/BassPluck-G5-127.wav"
+				fileName="SAMPLES/Community Pack 1.2/mellow Bass Pluck/BassPluck-G5-127.wav"
 				transpose="-31">
 				<zone
 					startSamplePos="0"
@@ -169,7 +169,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="98"
-				fileName="SAMPLES/CompetitionSamples/mellow Bass Pluck/BassPluck-C6-127.wav"
+				fileName="SAMPLES/Community Pack 1.2/mellow Bass Pluck/BassPluck-C6-127.wav"
 				transpose="-36">
 				<zone
 					startSamplePos="0"
@@ -179,7 +179,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="103"
-				fileName="SAMPLES/CompetitionSamples/mellow Bass Pluck/BassPluck-F6-127.wav"
+				fileName="SAMPLES/Community Pack 1.2/mellow Bass Pluck/BassPluck-F6-127.wav"
 				transpose="-41">
 				<zone
 					startSamplePos="0"
@@ -189,7 +189,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="107"
-				fileName="SAMPLES/CompetitionSamples/mellow Bass Pluck/BassPluck-A#6-127.wav"
+				fileName="SAMPLES/Community Pack 1.2/mellow Bass Pluck/BassPluck-A#6-127.wav"
 				transpose="-46">
 				<zone
 					startSamplePos="0"
@@ -198,7 +198,7 @@
 					endLoopPos="68279" />
 			</sampleRange>
 			<sampleRange
-				fileName="SAMPLES/CompetitionSamples/mellow Bass Pluck/BassPluck-C7-127.wav"
+				fileName="SAMPLES/Community Pack 1.2/mellow Bass Pluck/BassPluck-C7-127.wav"
 				transpose="-48">
 				<zone
 					startSamplePos="0"
@@ -216,7 +216,7 @@
 		<sampleRanges>
 			<sampleRange
 				rangeTopNote="26"
-				fileName="SAMPLES/CompetitionSamples/mellow Bass Pluck/C0.wav"
+				fileName="SAMPLES/Community Pack 1.2/mellow Bass Pluck/C0.wav"
 				transpose="36">
 				<zone
 					startSamplePos="0"
@@ -226,7 +226,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="30"
-				fileName="SAMPLES/CompetitionSamples/mellow Bass Pluck/E0.wav"
+				fileName="SAMPLES/Community Pack 1.2/mellow Bass Pluck/E0.wav"
 				transpose="32">
 				<zone
 					startSamplePos="0"
@@ -236,7 +236,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="34"
-				fileName="SAMPLES/CompetitionSamples/mellow Bass Pluck/G#0.wav"
+				fileName="SAMPLES/Community Pack 1.2/mellow Bass Pluck/G#0.wav"
 				transpose="28">
 				<zone
 					startSamplePos="0"
@@ -246,7 +246,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="38"
-				fileName="SAMPLES/CompetitionSamples/mellow Bass Pluck/C1.wav"
+				fileName="SAMPLES/Community Pack 1.2/mellow Bass Pluck/C1.wav"
 				transpose="24">
 				<zone
 					startSamplePos="0"
@@ -256,7 +256,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="42"
-				fileName="SAMPLES/CompetitionSamples/mellow Bass Pluck/E1.wav"
+				fileName="SAMPLES/Community Pack 1.2/mellow Bass Pluck/E1.wav"
 				transpose="20">
 				<zone
 					startSamplePos="0"
@@ -266,7 +266,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="46"
-				fileName="SAMPLES/CompetitionSamples/mellow Bass Pluck/g#1.wav"
+				fileName="SAMPLES/Community Pack 1.2/mellow Bass Pluck/g#1.wav"
 				transpose="16">
 				<zone
 					startSamplePos="0"
@@ -276,7 +276,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="50"
-				fileName="SAMPLES/CompetitionSamples/mellow Bass Pluck/C2.wav"
+				fileName="SAMPLES/Community Pack 1.2/mellow Bass Pluck/C2.wav"
 				transpose="12">
 				<zone
 					startSamplePos="0"
@@ -286,7 +286,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="54"
-				fileName="SAMPLES/CompetitionSamples/mellow Bass Pluck/E2.wav"
+				fileName="SAMPLES/Community Pack 1.2/mellow Bass Pluck/E2.wav"
 				transpose="8">
 				<zone
 					startSamplePos="0"
@@ -296,7 +296,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="58"
-				fileName="SAMPLES/CompetitionSamples/mellow Bass Pluck/G#2.wav"
+				fileName="SAMPLES/Community Pack 1.2/mellow Bass Pluck/G#2.wav"
 				transpose="4">
 				<zone
 					startSamplePos="0"
@@ -306,7 +306,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="62"
-				fileName="SAMPLES/CompetitionSamples/mellow Bass Pluck/C3.wav">
+				fileName="SAMPLES/Community Pack 1.2/mellow Bass Pluck/C3.wav">
 				<zone
 					startSamplePos="0"
 					endSamplePos="104788"
@@ -315,7 +315,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="66"
-				fileName="SAMPLES/CompetitionSamples/mellow Bass Pluck/E3.wav"
+				fileName="SAMPLES/Community Pack 1.2/mellow Bass Pluck/E3.wav"
 				transpose="-4">
 				<zone
 					startSamplePos="0"
@@ -325,7 +325,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="70"
-				fileName="SAMPLES/CompetitionSamples/mellow Bass Pluck/G#3.wav"
+				fileName="SAMPLES/Community Pack 1.2/mellow Bass Pluck/G#3.wav"
 				transpose="-8">
 				<zone
 					startSamplePos="0"
@@ -335,7 +335,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="74"
-				fileName="SAMPLES/CompetitionSamples/mellow Bass Pluck/C4.wav"
+				fileName="SAMPLES/Community Pack 1.2/mellow Bass Pluck/C4.wav"
 				transpose="-12">
 				<zone
 					startSamplePos="0"
@@ -345,7 +345,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="78"
-				fileName="SAMPLES/CompetitionSamples/mellow Bass Pluck/E4.wav"
+				fileName="SAMPLES/Community Pack 1.2/mellow Bass Pluck/E4.wav"
 				transpose="-16">
 				<zone
 					startSamplePos="0"
@@ -355,7 +355,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="82"
-				fileName="SAMPLES/CompetitionSamples/mellow Bass Pluck/G#4.wav"
+				fileName="SAMPLES/Community Pack 1.2/mellow Bass Pluck/G#4.wav"
 				transpose="-20">
 				<zone
 					startSamplePos="0"
@@ -365,7 +365,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="86"
-				fileName="SAMPLES/CompetitionSamples/mellow Bass Pluck/C5.wav"
+				fileName="SAMPLES/Community Pack 1.2/mellow Bass Pluck/C5.wav"
 				transpose="-24">
 				<zone
 					startSamplePos="0"
@@ -375,7 +375,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="90"
-				fileName="SAMPLES/CompetitionSamples/mellow Bass Pluck/E5.wav"
+				fileName="SAMPLES/Community Pack 1.2/mellow Bass Pluck/E5.wav"
 				transpose="-28">
 				<zone
 					startSamplePos="0"
@@ -385,7 +385,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="94"
-				fileName="SAMPLES/CompetitionSamples/mellow Bass Pluck/G#5.wav"
+				fileName="SAMPLES/Community Pack 1.2/mellow Bass Pluck/G#5.wav"
 				transpose="-32">
 				<zone
 					startSamplePos="0"
@@ -395,7 +395,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="98"
-				fileName="SAMPLES/CompetitionSamples/mellow Bass Pluck/C6.wav"
+				fileName="SAMPLES/Community Pack 1.2/mellow Bass Pluck/C6.wav"
 				transpose="-36">
 				<zone
 					startSamplePos="0"
@@ -405,7 +405,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="102"
-				fileName="SAMPLES/CompetitionSamples/mellow Bass Pluck/E6.wav"
+				fileName="SAMPLES/Community Pack 1.2/mellow Bass Pluck/E6.wav"
 				transpose="-40">
 				<zone
 					startSamplePos="0"
@@ -415,7 +415,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="106"
-				fileName="SAMPLES/CompetitionSamples/mellow Bass Pluck/g#6.wav"
+				fileName="SAMPLES/Community Pack 1.2/mellow Bass Pluck/g#6.wav"
 				transpose="-44">
 				<zone
 					startSamplePos="0"
@@ -424,7 +424,7 @@
 					endLoopPos="57359" />
 			</sampleRange>
 			<sampleRange
-				fileName="SAMPLES/CompetitionSamples/mellow Bass Pluck/C7.wav"
+				fileName="SAMPLES/Community Pack 1.2/mellow Bass Pluck/C7.wav"
 				transpose="-48">
 				<zone
 					startSamplePos="0"

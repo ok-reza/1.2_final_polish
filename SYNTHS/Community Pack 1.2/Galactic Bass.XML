@@ -19,7 +19,7 @@
 		<sampleRanges>
 			<sampleRange
 				rangeTopNote="16"
-				fileName="SAMPLES/CompetitionSamples/Galactic Bass/LAB - GB - E3.wav"
+				fileName="SAMPLES/Community Pack 1.2/Galactic Bass/LAB - GB - E3.wav"
 				transpose="44"
 				cents="-2">
 				<zone
@@ -28,7 +28,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="18"
-				fileName="SAMPLES/CompetitionSamples/Galactic Bass/LAB - GB - F3.wav"
+				fileName="SAMPLES/Community Pack 1.2/Galactic Bass/LAB - GB - F3.wav"
 				transpose="43">
 				<zone
 					startSamplePos="0"
@@ -36,7 +36,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="20"
-				fileName="SAMPLES/CompetitionSamples/Galactic Bass/LAB - GB - G3.wav"
+				fileName="SAMPLES/Community Pack 1.2/Galactic Bass/LAB - GB - G3.wav"
 				transpose="41">
 				<zone
 					startSamplePos="0"
@@ -44,7 +44,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="21"
-				fileName="SAMPLES/CompetitionSamples/Galactic Bass/LAB - GB - A3.wav"
+				fileName="SAMPLES/Community Pack 1.2/Galactic Bass/LAB - GB - A3.wav"
 				transpose="39">
 				<zone
 					startSamplePos="0"
@@ -52,7 +52,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="23"
-				fileName="SAMPLES/CompetitionSamples/Galactic Bass/LAB - GB - B3.wav"
+				fileName="SAMPLES/Community Pack 1.2/Galactic Bass/LAB - GB - B3.wav"
 				transpose="37"
 				cents="2">
 				<zone
@@ -61,7 +61,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="25"
-				fileName="SAMPLES/CompetitionSamples/Galactic Bass/LAB - GB - C4.wav"
+				fileName="SAMPLES/Community Pack 1.2/Galactic Bass/LAB - GB - C4.wav"
 				transpose="36">
 				<zone
 					startSamplePos="0"
@@ -69,7 +69,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="27"
-				fileName="SAMPLES/CompetitionSamples/Galactic Bass/LAB - GB - D4.wav"
+				fileName="SAMPLES/Community Pack 1.2/Galactic Bass/LAB - GB - D4.wav"
 				transpose="34"
 				cents="-1">
 				<zone
@@ -78,7 +78,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="28"
-				fileName="SAMPLES/CompetitionSamples/Galactic Bass/LAB - GB - E4.wav"
+				fileName="SAMPLES/Community Pack 1.2/Galactic Bass/LAB - GB - E4.wav"
 				transpose="32"
 				cents="-1">
 				<zone
@@ -87,7 +87,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="29"
-				fileName="SAMPLES/CompetitionSamples/Galactic Bass/LAB - GB - F4.wav"
+				fileName="SAMPLES/Community Pack 1.2/Galactic Bass/LAB - GB - F4.wav"
 				transpose="31"
 				cents="1">
 				<zone
@@ -96,7 +96,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="31"
-				fileName="SAMPLES/CompetitionSamples/Galactic Bass/LAB - GB - G4.wav"
+				fileName="SAMPLES/Community Pack 1.2/Galactic Bass/LAB - GB - G4.wav"
 				transpose="29"
 				cents="1">
 				<zone
@@ -105,7 +105,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="33"
-				fileName="SAMPLES/CompetitionSamples/Galactic Bass/LAB - GB - A4.wav"
+				fileName="SAMPLES/Community Pack 1.2/Galactic Bass/LAB - GB - A4.wav"
 				transpose="27"
 				cents="1">
 				<zone
@@ -114,7 +114,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="35"
-				fileName="SAMPLES/CompetitionSamples/Galactic Bass/LAB - GB - B4.wav"
+				fileName="SAMPLES/Community Pack 1.2/Galactic Bass/LAB - GB - B4.wav"
 				transpose="25"
 				cents="1">
 				<zone
@@ -123,7 +123,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="37"
-				fileName="SAMPLES/CompetitionSamples/Galactic Bass/LAB - GB - C5.wav"
+				fileName="SAMPLES/Community Pack 1.2/Galactic Bass/LAB - GB - C5.wav"
 				transpose="24">
 				<zone
 					startSamplePos="0"
@@ -131,7 +131,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="39"
-				fileName="SAMPLES/CompetitionSamples/Galactic Bass/LAB - GB - D5.wav"
+				fileName="SAMPLES/Community Pack 1.2/Galactic Bass/LAB - GB - D5.wav"
 				transpose="22">
 				<zone
 					startSamplePos="0"
@@ -139,7 +139,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="40"
-				fileName="SAMPLES/CompetitionSamples/Galactic Bass/LAB - GB - E5.wav"
+				fileName="SAMPLES/Community Pack 1.2/Galactic Bass/LAB - GB - E5.wav"
 				transpose="20"
 				cents="-1">
 				<zone
@@ -148,7 +148,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="41"
-				fileName="SAMPLES/CompetitionSamples/Galactic Bass/LAB - GB - F5.wav"
+				fileName="SAMPLES/Community Pack 1.2/Galactic Bass/LAB - GB - F5.wav"
 				transpose="19"
 				cents="1">
 				<zone
@@ -157,7 +157,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="43"
-				fileName="SAMPLES/CompetitionSamples/Galactic Bass/LAB - GB - G5.wav"
+				fileName="SAMPLES/Community Pack 1.2/Galactic Bass/LAB - GB - G5.wav"
 				transpose="17"
 				cents="1">
 				<zone
@@ -166,7 +166,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="45"
-				fileName="SAMPLES/CompetitionSamples/Galactic Bass/LAB - GB - A5.wav"
+				fileName="SAMPLES/Community Pack 1.2/Galactic Bass/LAB - GB - A5.wav"
 				transpose="15"
 				cents="1">
 				<zone
@@ -175,7 +175,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="47"
-				fileName="SAMPLES/CompetitionSamples/Galactic Bass/LAB - GB - B5.wav"
+				fileName="SAMPLES/Community Pack 1.2/Galactic Bass/LAB - GB - B5.wav"
 				transpose="13">
 				<zone
 					startSamplePos="0"
@@ -183,7 +183,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="49"
-				fileName="SAMPLES/CompetitionSamples/Galactic Bass/LAB - GB - C6.wav"
+				fileName="SAMPLES/Community Pack 1.2/Galactic Bass/LAB - GB - C6.wav"
 				transpose="12">
 				<zone
 					startSamplePos="0"
@@ -191,7 +191,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="51"
-				fileName="SAMPLES/CompetitionSamples/Galactic Bass/LAB - GB - D6.wav"
+				fileName="SAMPLES/Community Pack 1.2/Galactic Bass/LAB - GB - D6.wav"
 				transpose="10">
 				<zone
 					startSamplePos="0"
@@ -199,7 +199,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="52"
-				fileName="SAMPLES/CompetitionSamples/Galactic Bass/LAB - GB - E6.wav"
+				fileName="SAMPLES/Community Pack 1.2/Galactic Bass/LAB - GB - E6.wav"
 				transpose="8"
 				cents="-1">
 				<zone
@@ -208,7 +208,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="53"
-				fileName="SAMPLES/CompetitionSamples/Galactic Bass/LAB - GB - F6.wav"
+				fileName="SAMPLES/Community Pack 1.2/Galactic Bass/LAB - GB - F6.wav"
 				transpose="7"
 				cents="1">
 				<zone
@@ -217,7 +217,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="55"
-				fileName="SAMPLES/CompetitionSamples/Galactic Bass/LAB - GB - G6.wav"
+				fileName="SAMPLES/Community Pack 1.2/Galactic Bass/LAB - GB - G6.wav"
 				transpose="5"
 				cents="1">
 				<zone
@@ -226,7 +226,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="57"
-				fileName="SAMPLES/CompetitionSamples/Galactic Bass/LAB - GB - A6.wav"
+				fileName="SAMPLES/Community Pack 1.2/Galactic Bass/LAB - GB - A6.wav"
 				transpose="3">
 				<zone
 					startSamplePos="0"
@@ -234,7 +234,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="59"
-				fileName="SAMPLES/CompetitionSamples/Galactic Bass/LAB - GB - B6.wav"
+				fileName="SAMPLES/Community Pack 1.2/Galactic Bass/LAB - GB - B6.wav"
 				transpose="1"
 				cents="1">
 				<zone
@@ -242,7 +242,7 @@
 					endSamplePos="241577" />
 			</sampleRange>
 			<sampleRange
-				fileName="SAMPLES/CompetitionSamples/Galactic Bass/LAB - GB - C7.wav">
+				fileName="SAMPLES/Community Pack 1.2/Galactic Bass/LAB - GB - C7.wav">
 				<zone
 					startSamplePos="0"
 					endSamplePos="210777" />

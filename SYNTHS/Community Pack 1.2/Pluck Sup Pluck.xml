@@ -19,7 +19,7 @@
 		<sampleRanges>
 			<sampleRange
 				rangeTopNote="38"
-				fileName="SAMPLES/CompetitionSamples/Pluck Sup Pluck/Pluck Sup Pluck C1.WAV"
+				fileName="SAMPLES/Community Pack 1.2/Pluck Sup Pluck/Pluck Sup Pluck C1.WAV"
 				transpose="24">
 				<zone
 					startSamplePos="0"
@@ -27,7 +27,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="50"
-				fileName="SAMPLES/CompetitionSamples/Pluck Sup Pluck/Pluck Sup Pluck C2.WAV"
+				fileName="SAMPLES/Community Pack 1.2/Pluck Sup Pluck/Pluck Sup Pluck C2.WAV"
 				transpose="12">
 				<zone
 					startSamplePos="0"
@@ -35,14 +35,14 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="62"
-				fileName="SAMPLES/CompetitionSamples/Pluck Sup Pluck/Pluck Sup Pluck C3.WAV">
+				fileName="SAMPLES/Community Pack 1.2/Pluck Sup Pluck/Pluck Sup Pluck C3.WAV">
 				<zone
 					startSamplePos="0"
 					endSamplePos="382821" />
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="74"
-				fileName="SAMPLES/CompetitionSamples/Pluck Sup Pluck/Pluck Sup Pluck C4.WAV"
+				fileName="SAMPLES/Community Pack 1.2/Pluck Sup Pluck/Pluck Sup Pluck C4.WAV"
 				transpose="-12">
 				<zone
 					startSamplePos="0"
@@ -50,14 +50,14 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="86"
-				fileName="SAMPLES/CompetitionSamples/Pluck Sup Pluck/Pluck Sup Pluck C5.WAV"
+				fileName="SAMPLES/Community Pack 1.2/Pluck Sup Pluck/Pluck Sup Pluck C5.WAV"
 				transpose="-24">
 				<zone
 					startSamplePos="0"
 					endSamplePos="382821" />
 			</sampleRange>
 			<sampleRange
-				fileName="SAMPLES/CompetitionSamples/Pluck Sup Pluck/Pluck Sup Pluck C6.WAV"
+				fileName="SAMPLES/Community Pack 1.2/Pluck Sup Pluck/Pluck Sup Pluck C6.WAV"
 				transpose="-36">
 				<zone
 					startSamplePos="0"

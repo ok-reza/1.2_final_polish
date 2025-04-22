@@ -19,7 +19,7 @@
 		<sampleRanges>
 			<sampleRange
 				rangeTopNote="23"
-				fileName="SAMPLES/CompetitionSamples/Worn Baby Grand/REC00304_TNZ32.WAV"
+				fileName="SAMPLES/Community Pack 1.2/Worn Baby Grand/REC00304_TNZ32.WAV"
 				transpose="39">
 				<zone
 					startSamplePos="29440"
@@ -27,7 +27,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="29"
-				fileName="SAMPLES/CompetitionSamples/Worn Baby Grand/REC00301_VRT2P.WAV"
+				fileName="SAMPLES/Community Pack 1.2/Worn Baby Grand/REC00301_VRT2P.WAV"
 				transpose="36">
 				<zone
 					startSamplePos="123328"
@@ -35,7 +35,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="35"
-				fileName="SAMPLES/CompetitionSamples/Worn Baby Grand/REC00296_ZABA3.WAV"
+				fileName="SAMPLES/Community Pack 1.2/Worn Baby Grand/REC00296_ZABA3.WAV"
 				transpose="30">
 				<zone
 					startSamplePos="35328"
@@ -43,7 +43,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="41"
-				fileName="SAMPLES/CompetitionSamples/Worn Baby Grand/REC00295_OD0PW.WAV"
+				fileName="SAMPLES/Community Pack 1.2/Worn Baby Grand/REC00295_OD0PW.WAV"
 				transpose="24">
 				<zone
 					startSamplePos="55808"
@@ -51,7 +51,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="47"
-				fileName="SAMPLES/CompetitionSamples/Worn Baby Grand/REC00294_0WABL.WAV"
+				fileName="SAMPLES/Community Pack 1.2/Worn Baby Grand/REC00294_0WABL.WAV"
 				transpose="18">
 				<zone
 					startSamplePos="43776"
@@ -59,7 +59,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="53"
-				fileName="SAMPLES/CompetitionSamples/Worn Baby Grand/REC00293_FJRF4.WAV"
+				fileName="SAMPLES/Community Pack 1.2/Worn Baby Grand/REC00293_FJRF4.WAV"
 				transpose="12">
 				<zone
 					startSamplePos="40448"
@@ -67,7 +67,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="59"
-				fileName="SAMPLES/CompetitionSamples/Worn Baby Grand/REC00303_74A7T.WAV"
+				fileName="SAMPLES/Community Pack 1.2/Worn Baby Grand/REC00303_74A7T.WAV"
 				transpose="6">
 				<zone
 					startSamplePos="28672"
@@ -75,14 +75,14 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="65"
-				fileName="SAMPLES/CompetitionSamples/Worn Baby Grand/REC00280_ATZCT.WAV">
+				fileName="SAMPLES/Community Pack 1.2/Worn Baby Grand/REC00280_ATZCT.WAV">
 				<zone
 					startSamplePos="22528"
 					endSamplePos="561362" />
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="71"
-				fileName="SAMPLES/CompetitionSamples/Worn Baby Grand/REC00291_SSAKG.WAV"
+				fileName="SAMPLES/Community Pack 1.2/Worn Baby Grand/REC00291_SSAKG.WAV"
 				transpose="-6">
 				<zone
 					startSamplePos="56320"
@@ -90,7 +90,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="77"
-				fileName="SAMPLES/CompetitionSamples/Worn Baby Grand/REC00283_Y478Q.WAV"
+				fileName="SAMPLES/Community Pack 1.2/Worn Baby Grand/REC00283_Y478Q.WAV"
 				transpose="-12">
 				<zone
 					startSamplePos="27904"
@@ -98,7 +98,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="83"
-				fileName="SAMPLES/CompetitionSamples/Worn Baby Grand/REC00284_7562F.WAV"
+				fileName="SAMPLES/Community Pack 1.2/Worn Baby Grand/REC00284_7562F.WAV"
 				transpose="-18">
 				<zone
 					startSamplePos="48960"
@@ -106,7 +106,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="89"
-				fileName="SAMPLES/CompetitionSamples/Worn Baby Grand/REC00285_UVHAA.WAV"
+				fileName="SAMPLES/Community Pack 1.2/Worn Baby Grand/REC00285_UVHAA.WAV"
 				transpose="-24"
 				cents="-14">
 				<zone
@@ -115,7 +115,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="95"
-				fileName="SAMPLES/CompetitionSamples/Worn Baby Grand/REC00287_8UQA1.WAV"
+				fileName="SAMPLES/Community Pack 1.2/Worn Baby Grand/REC00287_8UQA1.WAV"
 				transpose="-30"
 				cents="-21">
 				<zone
@@ -124,7 +124,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="101"
-				fileName="SAMPLES/CompetitionSamples/Worn Baby Grand/REC00288_NTFNH.WAV"
+				fileName="SAMPLES/Community Pack 1.2/Worn Baby Grand/REC00288_NTFNH.WAV"
 				transpose="-36">
 				<zone
 					startSamplePos="30432"
@@ -132,14 +132,14 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="107"
-				fileName="SAMPLES/CompetitionSamples/Worn Baby Grand/REC00289_SGY6F.WAV"
+				fileName="SAMPLES/Community Pack 1.2/Worn Baby Grand/REC00289_SGY6F.WAV"
 				transpose="-42">
 				<zone
 					startSamplePos="52576"
 					endSamplePos="200704" />
 			</sampleRange>
 			<sampleRange
-				fileName="SAMPLES/CompetitionSamples/Worn Baby Grand/REC00306_C7F2A.WAV"
+				fileName="SAMPLES/Community Pack 1.2/Worn Baby Grand/REC00306_C7F2A.WAV"
 				transpose="-48">
 				<zone
 					startSamplePos="21120"

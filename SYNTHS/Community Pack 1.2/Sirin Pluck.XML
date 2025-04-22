@@ -2,61 +2,61 @@
 <sound firmwareVersion="c1.2.0" earliestCompatibleFirmware="4.1.0-alpha" polyphonic="mono" voicePriority="1" mode="subtractive" modFXType="none" lpfMode="24dB" hpfMode="HPLadder" filterRoute="H2L" maxVoices="8">
 	<osc1 type="sample" loopMode="1" reversed="0" timeStretchEnable="0" timeStretchAmount="0">
 		<sampleRanges>
-			<sampleRange rangeTopNote="26" fileName="SAMPLES/CompetitionSamples/Sirin Pluck/C1.wav" transpose="36" cents="-14">
+			<sampleRange rangeTopNote="26" fileName="SAMPLES/Community Pack 1.2/Sirin Pluck/C1.wav" transpose="36" cents="-14">
 				<zone startSamplePos="0" endSamplePos="88200" />
 			</sampleRange>
-			<sampleRange rangeTopNote="30" fileName="SAMPLES/CompetitionSamples/Sirin Pluck/E1.wav" transpose="32" cents="-12">
+			<sampleRange rangeTopNote="30" fileName="SAMPLES/Community Pack 1.2/Sirin Pluck/E1.wav" transpose="32" cents="-12">
 				<zone startSamplePos="0" endSamplePos="88200" />
 			</sampleRange>
-			<sampleRange rangeTopNote="34" fileName="SAMPLES/CompetitionSamples/Sirin Pluck/G#1.wav" transpose="28" cents="-12">
+			<sampleRange rangeTopNote="34" fileName="SAMPLES/Community Pack 1.2/Sirin Pluck/G#1.wav" transpose="28" cents="-12">
 				<zone startSamplePos="0" endSamplePos="88200" />
 			</sampleRange>
-			<sampleRange rangeTopNote="38" fileName="SAMPLES/CompetitionSamples/Sirin Pluck/C2.wav" transpose="24" cents="-13">
+			<sampleRange rangeTopNote="38" fileName="SAMPLES/Community Pack 1.2/Sirin Pluck/C2.wav" transpose="24" cents="-13">
 				<zone startSamplePos="0" endSamplePos="88200" />
 			</sampleRange>
-			<sampleRange rangeTopNote="42" fileName="SAMPLES/CompetitionSamples/Sirin Pluck/E2.wav" transpose="20" cents="-14">
+			<sampleRange rangeTopNote="42" fileName="SAMPLES/Community Pack 1.2/Sirin Pluck/E2.wav" transpose="20" cents="-14">
 				<zone startSamplePos="0" endSamplePos="88200" />
 			</sampleRange>
-			<sampleRange rangeTopNote="46" fileName="SAMPLES/CompetitionSamples/Sirin Pluck/G#2.wav" transpose="16" cents="-14">
+			<sampleRange rangeTopNote="46" fileName="SAMPLES/Community Pack 1.2/Sirin Pluck/G#2.wav" transpose="16" cents="-14">
 				<zone startSamplePos="0" endSamplePos="88200" />
 			</sampleRange>
-			<sampleRange rangeTopNote="50" fileName="SAMPLES/CompetitionSamples/Sirin Pluck/C3.wav" transpose="12" cents="-16">
+			<sampleRange rangeTopNote="50" fileName="SAMPLES/Community Pack 1.2/Sirin Pluck/C3.wav" transpose="12" cents="-16">
 				<zone startSamplePos="0" endSamplePos="88200" />
 			</sampleRange>
-			<sampleRange rangeTopNote="54" fileName="SAMPLES/CompetitionSamples/Sirin Pluck/E3.wav" transpose="8" cents="-14">
+			<sampleRange rangeTopNote="54" fileName="SAMPLES/Community Pack 1.2/Sirin Pluck/E3.wav" transpose="8" cents="-14">
 				<zone startSamplePos="0" endSamplePos="88200" />
 			</sampleRange>
-			<sampleRange rangeTopNote="58" fileName="SAMPLES/CompetitionSamples/Sirin Pluck/G#3.wav" transpose="4" cents="-15">
+			<sampleRange rangeTopNote="58" fileName="SAMPLES/Community Pack 1.2/Sirin Pluck/G#3.wav" transpose="4" cents="-15">
 				<zone startSamplePos="0" endSamplePos="88200" />
 			</sampleRange>
-			<sampleRange rangeTopNote="62" fileName="SAMPLES/CompetitionSamples/Sirin Pluck/C4.wav" cents="-17">
+			<sampleRange rangeTopNote="62" fileName="SAMPLES/Community Pack 1.2/Sirin Pluck/C4.wav" cents="-17">
 				<zone startSamplePos="0" endSamplePos="88200" />
 			</sampleRange>
-			<sampleRange rangeTopNote="66" fileName="SAMPLES/CompetitionSamples/Sirin Pluck/E4.wav" transpose="-4" cents="-15">
+			<sampleRange rangeTopNote="66" fileName="SAMPLES/Community Pack 1.2/Sirin Pluck/E4.wav" transpose="-4" cents="-15">
 				<zone startSamplePos="0" endSamplePos="88200" />
 			</sampleRange>
-			<sampleRange rangeTopNote="70" fileName="SAMPLES/CompetitionSamples/Sirin Pluck/G#4.wav" transpose="-8" cents="-16">
+			<sampleRange rangeTopNote="70" fileName="SAMPLES/Community Pack 1.2/Sirin Pluck/G#4.wav" transpose="-8" cents="-16">
 				<zone startSamplePos="0" endSamplePos="88200" />
 			</sampleRange>
-			<sampleRange rangeTopNote="74" fileName="SAMPLES/CompetitionSamples/Sirin Pluck/C5.wav" transpose="-12" cents="-17">
+			<sampleRange rangeTopNote="74" fileName="SAMPLES/Community Pack 1.2/Sirin Pluck/C5.wav" transpose="-12" cents="-17">
 				<zone startSamplePos="0" endSamplePos="88200" />
 			</sampleRange>
-			<sampleRange rangeTopNote="78" fileName="SAMPLES/CompetitionSamples/Sirin Pluck/E5.wav" transpose="-16" cents="-16">
+			<sampleRange rangeTopNote="78" fileName="SAMPLES/Community Pack 1.2/Sirin Pluck/E5.wav" transpose="-16" cents="-16">
 				<zone startSamplePos="0" endSamplePos="88200" />
 			</sampleRange>
-			<sampleRange rangeTopNote="82" fileName="SAMPLES/CompetitionSamples/Sirin Pluck/G#5.wav" transpose="-20" cents="-17">
+			<sampleRange rangeTopNote="82" fileName="SAMPLES/Community Pack 1.2/Sirin Pluck/G#5.wav" transpose="-20" cents="-17">
 				<zone startSamplePos="0" endSamplePos="88200" />
 			</sampleRange>
-			<sampleRange rangeTopNote="86" fileName="SAMPLES/CompetitionSamples/Sirin Pluck/C6.wav" transpose="-24" cents="-17">
+			<sampleRange rangeTopNote="86" fileName="SAMPLES/Community Pack 1.2/Sirin Pluck/C6.wav" transpose="-24" cents="-17">
 				<zone startSamplePos="0" endSamplePos="88200" />
 			</sampleRange>
-			<sampleRange rangeTopNote="90" fileName="SAMPLES/CompetitionSamples/Sirin Pluck/E6.wav" transpose="-28" cents="-17">
+			<sampleRange rangeTopNote="90" fileName="SAMPLES/Community Pack 1.2/Sirin Pluck/E6.wav" transpose="-28" cents="-17">
 				<zone startSamplePos="0" endSamplePos="88200" />
 			</sampleRange>
-			<sampleRange rangeTopNote="94" fileName="SAMPLES/CompetitionSamples/Sirin Pluck/G#6.wav" transpose="-32" cents="-17">
+			<sampleRange rangeTopNote="94" fileName="SAMPLES/Community Pack 1.2/Sirin Pluck/G#6.wav" transpose="-32" cents="-17">
 				<zone startSamplePos="0" endSamplePos="88200" />
 			</sampleRange>
-			<sampleRange fileName="SAMPLES/CompetitionSamples/Sirin Pluck/C7.wav" transpose="-36" cents="-17">
+			<sampleRange fileName="SAMPLES/Community Pack 1.2/Sirin Pluck/C7.wav" transpose="-36" cents="-17">
 				<zone startSamplePos="0" endSamplePos="88200" />
 			</sampleRange>
 		</sampleRanges>

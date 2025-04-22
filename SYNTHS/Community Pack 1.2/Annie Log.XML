@@ -19,7 +19,7 @@
 		<sampleRanges>
 			<sampleRange
 				rangeTopNote="4"
-				fileName="SAMPLES/CompetitionSamples/Annie Log/Min-3.wav"
+				fileName="SAMPLES/Community Pack 1.2/Annie Log/Min-3.wav"
 				transpose="57">
 				<zone
 					startSamplePos="0"
@@ -27,7 +27,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="7"
-				fileName="SAMPLES/CompetitionSamples/Annie Log/Min-6.wav"
+				fileName="SAMPLES/Community Pack 1.2/Annie Log/Min-6.wav"
 				transpose="54">
 				<zone
 					startSamplePos="0"
@@ -35,7 +35,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="10"
-				fileName="SAMPLES/CompetitionSamples/Annie Log/Min-A-2.wav"
+				fileName="SAMPLES/Community Pack 1.2/Annie Log/Min-A-2.wav"
 				transpose="51">
 				<zone
 					startSamplePos="0"
@@ -43,7 +43,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="13"
-				fileName="SAMPLES/CompetitionSamples/Annie Log/Min-C-1.wav"
+				fileName="SAMPLES/Community Pack 1.2/Annie Log/Min-C-1.wav"
 				transpose="48">
 				<zone
 					startSamplePos="0"
@@ -51,7 +51,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="16"
-				fileName="SAMPLES/CompetitionSamples/Annie Log/Min-15.wav"
+				fileName="SAMPLES/Community Pack 1.2/Annie Log/Min-15.wav"
 				transpose="45">
 				<zone
 					startSamplePos="0"
@@ -59,7 +59,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="19"
-				fileName="SAMPLES/CompetitionSamples/Annie Log/Min-18.wav"
+				fileName="SAMPLES/Community Pack 1.2/Annie Log/Min-18.wav"
 				transpose="42">
 				<zone
 					startSamplePos="0"
@@ -67,7 +67,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="22"
-				fileName="SAMPLES/CompetitionSamples/Annie Log/Min-A-1.wav"
+				fileName="SAMPLES/Community Pack 1.2/Annie Log/Min-A-1.wav"
 				transpose="39">
 				<zone
 					startSamplePos="0"
@@ -75,7 +75,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="25"
-				fileName="SAMPLES/CompetitionSamples/Annie Log/Min-C0.wav"
+				fileName="SAMPLES/Community Pack 1.2/Annie Log/Min-C0.wav"
 				transpose="36">
 				<zone
 					startSamplePos="0"
@@ -83,7 +83,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="28"
-				fileName="SAMPLES/CompetitionSamples/Annie Log/Min-D#0.wav"
+				fileName="SAMPLES/Community Pack 1.2/Annie Log/Min-D#0.wav"
 				transpose="33">
 				<zone
 					startSamplePos="0"
@@ -91,7 +91,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="31"
-				fileName="SAMPLES/CompetitionSamples/Annie Log/Min-F#0.wav"
+				fileName="SAMPLES/Community Pack 1.2/Annie Log/Min-F#0.wav"
 				transpose="30">
 				<zone
 					startSamplePos="0"
@@ -99,7 +99,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="34"
-				fileName="SAMPLES/CompetitionSamples/Annie Log/Min-A0.wav"
+				fileName="SAMPLES/Community Pack 1.2/Annie Log/Min-A0.wav"
 				transpose="27">
 				<zone
 					startSamplePos="0"
@@ -107,7 +107,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="37"
-				fileName="SAMPLES/CompetitionSamples/Annie Log/Min-C1.wav"
+				fileName="SAMPLES/Community Pack 1.2/Annie Log/Min-C1.wav"
 				transpose="24">
 				<zone
 					startSamplePos="0"
@@ -115,7 +115,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="40"
-				fileName="SAMPLES/CompetitionSamples/Annie Log/Min-D#1.wav"
+				fileName="SAMPLES/Community Pack 1.2/Annie Log/Min-D#1.wav"
 				transpose="21">
 				<zone
 					startSamplePos="0"
@@ -123,7 +123,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="43"
-				fileName="SAMPLES/CompetitionSamples/Annie Log/Min-F#1.wav"
+				fileName="SAMPLES/Community Pack 1.2/Annie Log/Min-F#1.wav"
 				transpose="18">
 				<zone
 					startSamplePos="0"
@@ -131,7 +131,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="46"
-				fileName="SAMPLES/CompetitionSamples/Annie Log/Min-A1.wav"
+				fileName="SAMPLES/Community Pack 1.2/Annie Log/Min-A1.wav"
 				transpose="15">
 				<zone
 					startSamplePos="0"
@@ -139,7 +139,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="49"
-				fileName="SAMPLES/CompetitionSamples/Annie Log/Min-C2.wav"
+				fileName="SAMPLES/Community Pack 1.2/Annie Log/Min-C2.wav"
 				transpose="12">
 				<zone
 					startSamplePos="0"
@@ -147,7 +147,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="52"
-				fileName="SAMPLES/CompetitionSamples/Annie Log/Min-D#2.wav"
+				fileName="SAMPLES/Community Pack 1.2/Annie Log/Min-D#2.wav"
 				transpose="9">
 				<zone
 					startSamplePos="0"
@@ -155,7 +155,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="55"
-				fileName="SAMPLES/CompetitionSamples/Annie Log/Min-F#2.wav"
+				fileName="SAMPLES/Community Pack 1.2/Annie Log/Min-F#2.wav"
 				transpose="6">
 				<zone
 					startSamplePos="0"
@@ -163,7 +163,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="58"
-				fileName="SAMPLES/CompetitionSamples/Annie Log/Min-A2.wav"
+				fileName="SAMPLES/Community Pack 1.2/Annie Log/Min-A2.wav"
 				transpose="3">
 				<zone
 					startSamplePos="0"
@@ -171,14 +171,14 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="61"
-				fileName="SAMPLES/CompetitionSamples/Annie Log/Min-C3.wav">
+				fileName="SAMPLES/Community Pack 1.2/Annie Log/Min-C3.wav">
 				<zone
 					startSamplePos="0"
 					endSamplePos="882000" />
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="64"
-				fileName="SAMPLES/CompetitionSamples/Annie Log/Min-D#3.wav"
+				fileName="SAMPLES/Community Pack 1.2/Annie Log/Min-D#3.wav"
 				transpose="-3">
 				<zone
 					startSamplePos="0"
@@ -186,7 +186,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="67"
-				fileName="SAMPLES/CompetitionSamples/Annie Log/Min-F#3.wav"
+				fileName="SAMPLES/Community Pack 1.2/Annie Log/Min-F#3.wav"
 				transpose="-6">
 				<zone
 					startSamplePos="0"
@@ -194,14 +194,14 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="70"
-				fileName="SAMPLES/CompetitionSamples/Annie Log/Min-A3.wav"
+				fileName="SAMPLES/Community Pack 1.2/Annie Log/Min-A3.wav"
 				transpose="-9">
 				<zone
 					startSamplePos="0"
 					endSamplePos="882000" />
 			</sampleRange>
 			<sampleRange
-				fileName="SAMPLES/CompetitionSamples/Annie Log/Min-C4.wav"
+				fileName="SAMPLES/Community Pack 1.2/Annie Log/Min-C4.wav"
 				transpose="-12">
 				<zone
 					startSamplePos="0"

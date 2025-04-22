@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <sound firmwareVersion="c1.2.0" earliestCompatibleFirmware="4.1.0-alpha" polyphonic="poly" voicePriority="1" mode="subtractive" transpose="-12" modFXType="none" lpfMode="SVF_Notch" hpfMode="HPLadder" filterRoute="H2L" maxVoices="8">
-	<osc1 type="wavetable" transpose="0" cents="0" retrigPhase="0" fileName="SAMPLES/CompetitionSamples/SNES Organ/Sine1.wav" />
-	<osc2 type="wavetable" transpose="0" cents="0" retrigPhase="0" fileName="SAMPLES/CompetitionSamples/SNES Organ/Sine2.wav" />
+	<osc1 type="wavetable" transpose="0" cents="0" retrigPhase="0" fileName="SAMPLES/Community Pack 1.2/SNES Organ/Sine1.wav" />
+	<osc2 type="wavetable" transpose="0" cents="0" retrigPhase="0" fileName="SAMPLES/Community Pack 1.2/SNES Organ/Sine2.wav" />
 	<lfo1 type="triangle" syncLevel="0" syncType="0" />
 	<lfo2 type="triangle" syncLevel="0" syncType="0" />
 	<unison num="1" detune="8" spread="0" />

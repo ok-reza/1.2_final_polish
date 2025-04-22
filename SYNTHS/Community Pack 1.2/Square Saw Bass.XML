@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <sound firmwareVersion="c1.2.0" earliestCompatibleFirmware="4.1.0-alpha" polyphonic="legato" voicePriority="1" mode="subtractive" modFXType="none" lpfMode="24dBDrive" hpfMode="HPLadder" filterRoute="H2L" maxVoices="8">
-	<osc1 type="sample" loopMode="2" reversed="0" timeStretchEnable="0" timeStretchAmount="0" fileName="SAMPLES/CompetitionSamples/Square Saw Bass/Saw Left.wav" cents="5">
+	<osc1 type="sample" loopMode="2" reversed="0" timeStretchEnable="0" timeStretchAmount="0" fileName="SAMPLES/Community Pack 1.2/Square Saw Bass/Saw Left.wav" cents="5">
 		<zone startSamplePos="0" endSamplePos="368" />
 	</osc1>
-	<osc2 type="sample" loopMode="2" reversed="0" timeStretchEnable="0" timeStretchAmount="0" fileName="SAMPLES/CompetitionSamples/Square Saw Bass/Square Right.wav" cents="7">
+	<osc2 type="sample" loopMode="2" reversed="0" timeStretchEnable="0" timeStretchAmount="0" fileName="SAMPLES/Community Pack 1.2/Square Saw Bass/Square Right.wav" cents="7">
 		<zone startSamplePos="0" endSamplePos="737" startLoopPos="134" endLoopPos="503" />
 	</osc2>
 	<lfo1 type="triangle" syncLevel="0" syncType="0" />

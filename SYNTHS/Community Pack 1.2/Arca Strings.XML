@@ -18,7 +18,7 @@
 		timeStretchEnable="1"
 		timeStretchAmount="-17"
 		linearInterpolation="1"
-		fileName="SAMPLES/CompetitionSamples/Arca Strings/Arca Strings.wav">
+		fileName="SAMPLES/Community Pack 1.2/Arca Strings/Arca Strings.wav">
 		<zone
 			startSamplePos="0"
 			endSamplePos="88200" />

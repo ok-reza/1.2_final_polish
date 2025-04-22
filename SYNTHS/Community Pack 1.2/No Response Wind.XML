@@ -17,7 +17,7 @@
 		timeStretchEnable="0"
 		timeStretchAmount="-7"
 		linearInterpolation="1"
-		fileName="SAMPLES/CompetitionSamples/No Response Wind/Velocity Pans.wav">
+		fileName="SAMPLES/Community Pack 1.2/No Response Wind/Velocity Pans.wav">
 		<zone
 			startSamplePos="0"
 			endSamplePos="88200" />
@@ -29,7 +29,7 @@
 		timeStretchEnable="0"
 		timeStretchAmount="4"
 		linearInterpolation="1"
-		fileName="SAMPLES/CompetitionSamples/No Response Wind/Velocity Pans.wav">
+		fileName="SAMPLES/Community Pack 1.2/No Response Wind/Velocity Pans.wav">
 		<zone
 			startSamplePos="0"
 			endSamplePos="88200" />

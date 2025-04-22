@@ -25,7 +25,7 @@
 		<sampleRanges>
 			<sampleRange
 				rangeTopNote="49"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #2.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #2.wav"
 				transpose="11">
 				<zone
 					startSamplePos="0"
@@ -33,7 +33,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="50"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #3.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #3.wav"
 				transpose="10">
 				<zone
 					startSamplePos="0"
@@ -41,7 +41,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="51"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #4.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #4.wav"
 				transpose="9">
 				<zone
 					startSamplePos="0"
@@ -49,7 +49,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="52"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #5.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #5.wav"
 				transpose="8">
 				<zone
 					startSamplePos="0"
@@ -57,7 +57,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="53"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #6.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #6.wav"
 				transpose="7">
 				<zone
 					startSamplePos="0"
@@ -65,7 +65,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="54"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #7.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #7.wav"
 				transpose="6">
 				<zone
 					startSamplePos="0"
@@ -73,7 +73,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="55"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #8.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #8.wav"
 				transpose="5">
 				<zone
 					startSamplePos="0"
@@ -81,7 +81,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="56"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #9.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #9.wav"
 				transpose="4">
 				<zone
 					startSamplePos="0"
@@ -89,7 +89,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="57"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #10.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #10.wav"
 				transpose="3">
 				<zone
 					startSamplePos="0"
@@ -97,7 +97,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="58"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #11.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #11.wav"
 				transpose="2">
 				<zone
 					startSamplePos="0"
@@ -105,7 +105,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="59"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #12.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #12.wav"
 				transpose="1">
 				<zone
 					startSamplePos="0"
@@ -113,14 +113,14 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="60"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #13.wav">
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #13.wav">
 				<zone
 					startSamplePos="0"
 					endSamplePos="288636" />
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="61"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #14.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #14.wav"
 				transpose="-1">
 				<zone
 					startSamplePos="0"
@@ -128,7 +128,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="62"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #15.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #15.wav"
 				transpose="-2">
 				<zone
 					startSamplePos="0"
@@ -136,7 +136,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="63"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #16.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #16.wav"
 				transpose="-3">
 				<zone
 					startSamplePos="0"
@@ -144,7 +144,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="64"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #17.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #17.wav"
 				transpose="-4">
 				<zone
 					startSamplePos="0"
@@ -152,7 +152,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="65"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #18.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #18.wav"
 				transpose="-5">
 				<zone
 					startSamplePos="0"
@@ -160,7 +160,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="66"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #19.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #19.wav"
 				transpose="-6">
 				<zone
 					startSamplePos="0"
@@ -168,7 +168,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="67"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #20.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #20.wav"
 				transpose="-7">
 				<zone
 					startSamplePos="0"
@@ -176,7 +176,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="68"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #21.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #21.wav"
 				transpose="-8">
 				<zone
 					startSamplePos="0"
@@ -184,7 +184,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="69"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #22.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #22.wav"
 				transpose="-9">
 				<zone
 					startSamplePos="0"
@@ -192,7 +192,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="70"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #23.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #23.wav"
 				transpose="-10">
 				<zone
 					startSamplePos="0"
@@ -200,7 +200,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="71"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #24.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #24.wav"
 				transpose="-11">
 				<zone
 					startSamplePos="0"
@@ -208,7 +208,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="72"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #25.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #25.wav"
 				transpose="-12">
 				<zone
 					startSamplePos="0"
@@ -216,7 +216,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="73"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #26.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #26.wav"
 				transpose="-13">
 				<zone
 					startSamplePos="0"
@@ -224,7 +224,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="74"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #27.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #27.wav"
 				transpose="-14">
 				<zone
 					startSamplePos="0"
@@ -232,7 +232,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="75"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #28.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #28.wav"
 				transpose="-15">
 				<zone
 					startSamplePos="0"
@@ -240,7 +240,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="76"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #29.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #29.wav"
 				transpose="-16">
 				<zone
 					startSamplePos="0"
@@ -248,7 +248,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="77"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #30.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #30.wav"
 				transpose="-17">
 				<zone
 					startSamplePos="0"
@@ -256,7 +256,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="78"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #31.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #31.wav"
 				transpose="-18">
 				<zone
 					startSamplePos="0"
@@ -264,7 +264,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="79"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #32.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #32.wav"
 				transpose="-19">
 				<zone
 					startSamplePos="0"
@@ -272,7 +272,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="80"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #33.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #33.wav"
 				transpose="-20">
 				<zone
 					startSamplePos="0"
@@ -280,7 +280,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="81"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #34.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #34.wav"
 				transpose="-21">
 				<zone
 					startSamplePos="0"
@@ -288,7 +288,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="82"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #35.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #35.wav"
 				transpose="-22">
 				<zone
 					startSamplePos="0"
@@ -296,7 +296,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="83"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #36.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #36.wav"
 				transpose="-23">
 				<zone
 					startSamplePos="0"
@@ -304,7 +304,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="84"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #37.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #37.wav"
 				transpose="-24">
 				<zone
 					startSamplePos="0"
@@ -312,7 +312,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="85"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #38.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #38.wav"
 				transpose="-25">
 				<zone
 					startSamplePos="0"
@@ -320,7 +320,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="86"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #39.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #39.wav"
 				transpose="-26">
 				<zone
 					startSamplePos="0"
@@ -328,7 +328,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="87"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #40.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #40.wav"
 				transpose="-27">
 				<zone
 					startSamplePos="0"
@@ -336,7 +336,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="88"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #41.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #41.wav"
 				transpose="-28">
 				<zone
 					startSamplePos="0"
@@ -344,7 +344,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="89"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #42.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #42.wav"
 				transpose="-29">
 				<zone
 					startSamplePos="0"
@@ -352,7 +352,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="90"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #43.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #43.wav"
 				transpose="-30">
 				<zone
 					startSamplePos="0"
@@ -360,7 +360,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="91"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #44.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #44.wav"
 				transpose="-31">
 				<zone
 					startSamplePos="0"
@@ -368,7 +368,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="92"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #45.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #45.wav"
 				transpose="-32">
 				<zone
 					startSamplePos="0"
@@ -376,7 +376,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="93"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #46.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #46.wav"
 				transpose="-33">
 				<zone
 					startSamplePos="0"
@@ -384,7 +384,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="94"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #47.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #47.wav"
 				transpose="-34">
 				<zone
 					startSamplePos="0"
@@ -392,7 +392,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="95"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #48.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #48.wav"
 				transpose="-35">
 				<zone
 					startSamplePos="0"
@@ -400,7 +400,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="96"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #49.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #49.wav"
 				transpose="-36">
 				<zone
 					startSamplePos="0"
@@ -408,7 +408,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="97"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #50.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #50.wav"
 				transpose="-37">
 				<zone
 					startSamplePos="0"
@@ -416,7 +416,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="98"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #51.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #51.wav"
 				transpose="-38">
 				<zone
 					startSamplePos="0"
@@ -424,7 +424,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="99"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #52.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #52.wav"
 				transpose="-39">
 				<zone
 					startSamplePos="0"
@@ -432,7 +432,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="100"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #53.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #53.wav"
 				transpose="-40">
 				<zone
 					startSamplePos="0"
@@ -440,7 +440,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="101"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #54.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #54.wav"
 				transpose="-41">
 				<zone
 					startSamplePos="0"
@@ -448,7 +448,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="102"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #55.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #55.wav"
 				transpose="-42">
 				<zone
 					startSamplePos="0"
@@ -456,7 +456,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="103"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #56.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #56.wav"
 				transpose="-43">
 				<zone
 					startSamplePos="0"
@@ -464,7 +464,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="104"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #57.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #57.wav"
 				transpose="-44">
 				<zone
 					startSamplePos="0"
@@ -472,7 +472,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="105"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #58.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #58.wav"
 				transpose="-45">
 				<zone
 					startSamplePos="0"
@@ -480,7 +480,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="106"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #59.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #59.wav"
 				transpose="-46">
 				<zone
 					startSamplePos="0"
@@ -488,7 +488,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="107"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #60.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #60.wav"
 				transpose="-47">
 				<zone
 					startSamplePos="0"
@@ -496,7 +496,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="108"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #61.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #61.wav"
 				transpose="-48">
 				<zone
 					startSamplePos="0"
@@ -504,7 +504,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="109"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #62.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #62.wav"
 				transpose="-49">
 				<zone
 					startSamplePos="0"
@@ -512,7 +512,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="110"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #63.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #63.wav"
 				transpose="-50">
 				<zone
 					startSamplePos="0"
@@ -520,7 +520,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="111"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #64.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #64.wav"
 				transpose="-51">
 				<zone
 					startSamplePos="0"
@@ -528,7 +528,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="112"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #65.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #65.wav"
 				transpose="-52">
 				<zone
 					startSamplePos="0"
@@ -536,7 +536,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="113"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #66.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #66.wav"
 				transpose="-53">
 				<zone
 					startSamplePos="0"
@@ -544,7 +544,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="114"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #67.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #67.wav"
 				transpose="-54">
 				<zone
 					startSamplePos="0"
@@ -552,7 +552,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="115"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #68.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #68.wav"
 				transpose="-55">
 				<zone
 					startSamplePos="0"
@@ -560,14 +560,14 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="116"
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #69.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #69.wav"
 				transpose="-56">
 				<zone
 					startSamplePos="0"
 					endSamplePos="282826" />
 			</sampleRange>
 			<sampleRange
-				fileName="SAMPLES/CompetitionSamples/Boombass 2 Ms/SkewBass - Marker #70.wav"
+				fileName="SAMPLES/Community Pack 1.2/Boombass 2 Ms/SkewBass - Marker #70.wav"
 				transpose="-57">
 				<zone
 					startSamplePos="0"

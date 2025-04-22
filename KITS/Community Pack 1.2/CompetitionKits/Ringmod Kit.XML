@@ -1069,7 +1069,7 @@
 				transpose="15"
 				cents="0"
 				retrigPhase="0"
-				fileName="SAMPLES/CompetitionSamples/Ringmod Kit/Sine Oct to Fizz.wav" />
+				fileName="SAMPLES/Community Pack 1.2/Ringmod Kit/Sine Oct to Fizz.wav" />
 			<osc2
 				type="analogSaw"
 				transpose="33"

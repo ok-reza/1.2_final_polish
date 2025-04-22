@@ -19,7 +19,7 @@
 		<sampleRanges>
 			<sampleRange
 				rangeTopNote="65"
-				fileName="SAMPLES/CompetitionSamples/Joeys Kalimba/E3.wav"
+				fileName="SAMPLES/Community Pack 1.2/Joeys Kalimba/E3.wav"
 				transpose="-4">
 				<zone
 					startSamplePos="0"
@@ -27,7 +27,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="68"
-				fileName="SAMPLES/CompetitionSamples/Joeys Kalimba/G3.wav"
+				fileName="SAMPLES/Community Pack 1.2/Joeys Kalimba/G3.wav"
 				transpose="-7">
 				<zone
 					startSamplePos="0"
@@ -35,7 +35,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="72"
-				fileName="SAMPLES/CompetitionSamples/Joeys Kalimba/A3.wav"
+				fileName="SAMPLES/Community Pack 1.2/Joeys Kalimba/A3.wav"
 				transpose="-9">
 				<zone
 					startSamplePos="0"
@@ -43,7 +43,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="73"
-				fileName="SAMPLES/CompetitionSamples/Joeys Kalimba/A3.wav"
+				fileName="SAMPLES/Community Pack 1.2/Joeys Kalimba/A3.wav"
 				transpose="-9">
 				<zone
 					startSamplePos="0"
@@ -51,7 +51,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="74"
-				fileName="SAMPLES/CompetitionSamples/Joeys Kalimba/E4.wav"
+				fileName="SAMPLES/Community Pack 1.2/Joeys Kalimba/E4.wav"
 				transpose="-16">
 				<zone
 					startSamplePos="0"
@@ -59,14 +59,14 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="78"
-				fileName="SAMPLES/CompetitionSamples/Joeys Kalimba/E4.wav"
+				fileName="SAMPLES/Community Pack 1.2/Joeys Kalimba/E4.wav"
 				transpose="-16">
 				<zone
 					startSamplePos="0"
 					endSamplePos="34322" />
 			</sampleRange>
 			<sampleRange
-				fileName="SAMPLES/CompetitionSamples/Joeys Kalimba/A4.wav"
+				fileName="SAMPLES/Community Pack 1.2/Joeys Kalimba/A4.wav"
 				transpose="-21">
 				<zone
 					startSamplePos="0"

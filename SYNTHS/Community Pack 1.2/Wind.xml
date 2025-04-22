@@ -19,7 +19,7 @@
 		<sampleRanges>
 			<sampleRange
 				rangeTopNote="39"
-				fileName="SAMPLES/CompetitionSamples/Wind/Wind c#1.wav"
+				fileName="SAMPLES/Community Pack 1.2/Wind/Wind c#1.wav"
 				transpose="23">
 				<zone
 					startSamplePos="0"
@@ -27,7 +27,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="44"
-				fileName="SAMPLES/CompetitionSamples/Wind/Wind f#1.wav"
+				fileName="SAMPLES/Community Pack 1.2/Wind/Wind f#1.wav"
 				transpose="18">
 				<zone
 					startSamplePos="0"
@@ -35,7 +35,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="50"
-				fileName="SAMPLES/CompetitionSamples/Wind/Wind c2.wav"
+				fileName="SAMPLES/Community Pack 1.2/Wind/Wind c2.wav"
 				transpose="12">
 				<zone
 					startSamplePos="0"
@@ -43,7 +43,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="55"
-				fileName="SAMPLES/CompetitionSamples/Wind/Wind f2.wav"
+				fileName="SAMPLES/Community Pack 1.2/Wind/Wind f2.wav"
 				transpose="7">
 				<zone
 					startSamplePos="0"
@@ -51,14 +51,14 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="62"
-				fileName="SAMPLES/CompetitionSamples/Wind/Wind c3.wav">
+				fileName="SAMPLES/Community Pack 1.2/Wind/Wind c3.wav">
 				<zone
 					startSamplePos="0"
 					endSamplePos="382821" />
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="69"
-				fileName="SAMPLES/CompetitionSamples/Wind/Wind g3.wav"
+				fileName="SAMPLES/Community Pack 1.2/Wind/Wind g3.wav"
 				transpose="-7">
 				<zone
 					startSamplePos="0"
@@ -66,7 +66,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="74"
-				fileName="SAMPLES/CompetitionSamples/Wind/Wind c4.wav"
+				fileName="SAMPLES/Community Pack 1.2/Wind/Wind c4.wav"
 				transpose="-12">
 				<zone
 					startSamplePos="0"
@@ -74,7 +74,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="80"
-				fileName="SAMPLES/CompetitionSamples/Wind/Wind f#4.wav"
+				fileName="SAMPLES/Community Pack 1.2/Wind/Wind f#4.wav"
 				transpose="-18">
 				<zone
 					startSamplePos="0"
@@ -82,7 +82,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="86"
-				fileName="SAMPLES/CompetitionSamples/Wind/Wind c5.wav"
+				fileName="SAMPLES/Community Pack 1.2/Wind/Wind c5.wav"
 				transpose="-24">
 				<zone
 					startSamplePos="0"
@@ -90,14 +90,14 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="92"
-				fileName="SAMPLES/CompetitionSamples/Wind/Wind f#5.wav"
+				fileName="SAMPLES/Community Pack 1.2/Wind/Wind f#5.wav"
 				transpose="-30">
 				<zone
 					startSamplePos="0"
 					endSamplePos="382821" />
 			</sampleRange>
 			<sampleRange
-				fileName="SAMPLES/CompetitionSamples/Wind/Wind c6.wav"
+				fileName="SAMPLES/Community Pack 1.2/Wind/Wind c6.wav"
 				transpose="-36">
 				<zone
 					startSamplePos="0"
