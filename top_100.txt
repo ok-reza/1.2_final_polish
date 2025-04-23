@@ -81,7 +81,6 @@ Saturnine
 Sawborg
 Heartspark
 Nowhere Home
-Evil FM
 Trust Me Its Useful Noise
 Weather
 Gritty Bass Arp
@@ -90,7 +89,6 @@ Hollow Dark
 Nilsish
 Livewire Arp
 Sync Squared
-Vowlz Ps
 Super Square
 Desparate Synth
 Spilled Soup
@@ -98,3 +96,5 @@ Pad 20k Pad
 Wind
 Faulty Circuit
 Overloading
+Richy Rich
+Speed Lead
