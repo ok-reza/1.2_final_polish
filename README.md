@@ -8,7 +8,7 @@ There are tons of great presets in both folders, have fun exploring all the soun
 Shoutout to (in no particular order) Mark Young, Metamere, abstractrealism shoshin, James Macaulay, Bay Mud, ok reza, ilovesteak, sean good vibes, labyrinthofspirits, nikodemus, TerrificRabbit, Wirt, Andrew (legendary voting website) and the dozen other people in the Discord thread who chimed in to help us all get this across the finish line! Thank you so much, it couldn't have happened without you all!  
 
 # Notes  
-Saumur Piano is a public piano that sits outside all summer next to the Loire. Frances2 was made by shoshin's 8 year old daughter. "MPE" was added to the names of presets tagged wtih MPE which are intended to be played with an MPE MIDI controller. Meld Arp is quiet by default, until the mod wheel is turned up or the LFO cycles.  
+Saumur Piano is a public piano that sits outside all summer next to the Loire. Frances2 was made by shoshin's 8 year old daughter. "MPE" was added to the names of presets tagged wtih MPE which are intended to be played with an MPE MIDI controller. Meld Arp is quiet by default until the mod wheel is turned up or the LFO cycles.  
 
 Edit this README to add your own tips, tricks, and trivia!  
 
