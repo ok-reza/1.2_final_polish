@@ -31,7 +31,7 @@ Edit this README to add your own tips, tricks, and trivia!
 | 13 | Joey's Kalimba | Bay Mud | Arp, Multisample |
 | 14 | Wall of Static | ok reza | Lead |
 | 15 | Mpe Desert Strata | James MacAulay | MPE, Pad |
-| 16 | MPE Dark | Labyrinth of Spirits | Multisample |
+| 16 | Dark | Labyrinth of Spirits | Multisample |
 | 17 | Worn Baby Grand | ok reza | Multisample |
 | 18 | 12 Metalliche | Ossimuratore | DX7 |
 | 19 | Broadcast | ok reza | Pad |
