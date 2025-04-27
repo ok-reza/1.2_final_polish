@@ -1,5 +1,5 @@
 # deluge-community-preset-pack-1.2  
-How to download: Click the green [<> Code] button in the top right! Then click "Download Zip"!
+**Download**: Click the green [<> Code] button in the top right! Then click Download Zip!
 
 Deluge Community Firmware 1.2 Preset Competition Results! This set of presets were submitted for a preset competition for the 1.2 community firmware for the Deluge. Thank you all so much for participating! Download this repository and copy the "Community 1.2" and "Community 1.2 B-Sides" folders to the KITS, SAMPLES, and SYNTHS folders on your SD card.  
 
