@@ -1,7 +1,9 @@
 # deluge-community-preset-pack-1.2  
-Deluge Community Firmware 1.2 Preset Competition Results! This set of presets were submitted for a preset competition for the 1.2 community firmware for the Deluge. Thank you all so much for participating and organizing this competition! Download this repository and copy the "Community 1.2" and "Community 1.2 B-Sides" folders to the KITS, SAMPLES, and SYNTHS folders on your SD card.  
+Deluge Community Firmware 1.2 Preset Competition Results! This set of presets were submitted for a preset competition for the 1.2 community firmware for the Deluge. Thank you all so much for participating! Download this repository and copy the "Community 1.2" and "Community 1.2 B-Sides" folders to the KITS, SAMPLES, and SYNTHS folders on your SD card.  
 
 There are tons of great presets in both folders, have fun exploring all the sounds!  
+
+Shoutout to (in no particular order) Mark Young, Metamere, abstractrealism shoshin, James Macaulay, Bay Mud, ok reza, ilovesteak, sean good vibes, Andrew, labyrinthofspirits, nikodemus, TerrificRabbit, Wirt, Andrew (legendary website) and the dozen other people in the Discord thread who chimed in to help us all get this across the finish line! Thank you so much, it couldn't have happened without you all!
 
 # Top 100 Presets  
 | # | Name | Artist | Type |
