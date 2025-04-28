@@ -7,8 +7,27 @@ There are tons of great presets in both folders, have fun exploring all the soun
 
 Shoutout to (in no particular order) Mark Young, Metamere, abstractrealism shoshin, James Macaulay, Bay Mud, ok reza, ilovesteak, sean good vibes, labyrinthofspirits, nikodemus, TerrificRabbit, Wirt, Andrew (legendary voting website) and the dozen other people in the Discord thread who chimed in to help us all get this across the finish line! Thank you so much, it couldn't have happened without you all!  
 
-# Notes  
-Saumur Piano is a public piano that sits outside all summer next to the Loire. Frances2 was made by shoshin's 8 year old daughter. "MPE" was added to the names of presets tagged wtih MPE which are intended to be played with an MPE MIDI controller. Meld Arp is quiet by default until the mod wheel is turned up or the LFO cycles.  
+# Preset Notes  
+"MPE" was added to the names of presets tagged wtih MPE which are intended to be played with an MPE MIDI controller. Saumur Piano is a public piano that sits outside all summer next to the Loire. Samples were recorded by hand and used to make the preset. Frances2 was made by shoshin's 8 year old daughter.  
+
+## Metamere Preset Notes  
+**Vsco Percussion Sampler Kit** is a collection of public domain orchestral samples (https://versilian-studios.com/vsco-community/), taken from a larger set, cleaned, leveled, and converted as necessary to work well on the Deluge and with each other. Various wood, metal, traditional, folk, and other exotic sounds.  
+
+**Meld Arp** is designed for ambient music, and its rate depends on the song tempo. It slowly cycles between being more dull and quiet at the bottom of the cycle to more crisp and loud at the top. The mod wheel and/or aftertouch can be used to manually boost it and open the filter. Because it uses a wavetable for the oscillator, you can adjust the timbre using custom 2 and 3.  
+
+**Organic 1** was designed mainly as a drone pad, but it can also work as unruly strings or plucks when the mod wheel is adjusted up. It varies over time, so you can either let it drone or adapt and work with it to get the most out of it. **Synthetic 1** is an ambient drone pad made as a companion to Organic 1. This has a richer bass tone and more digital sounding high end. Depends less on LFO and more on manual control of mod wheel, etc.  
+
+**Woodeep** is a classic DX7 electric piano sound with an added triangle oscillator and modulation to give it more expression and depth. Aftertouch will change the sound to be more buzzy with a slow LFO. You can adjust custom 2 to make the buzzy timbre permanent. Velocity influences the timbre instead of the volume. Mod wheel influences the character of the higher notes to provide a kind of split effect.  
+
+**Vibes WT** is a vibraphone sound created using a wavetable plus a triangle oscillator. You can adjust custom 2 and 3 to give it a shimmery effect or change the timbre. Aftertouch can extend the sound. Turn up the mod wheel to make the notes shorter.  
+
+**Saturnine** is a ring modulation based lead sound that works well with velocity and aftertouch for expression. Turn up the mod wheel to make it sound more like strings than piano. This one can go really wild with the grain mod-FX turned on (increase the depth from 0), and with some tweaks to custom 2 and 3 to make oscillator pitch adjustments and find a sweet spot where the sound character can become very strange and wonderful.  With the delay turned on (increase amount from 0) it can become quite the ambient soundscape. Aftertouch adds vibrato while closing the filter to provide an eerie or exotic vibe.  
+
+**SNES Organ** is a two single cycle waveform oscillators, where the mod wheel adjusts one up and the other down, to provide a range of different timbres, such as a more brassy sound. It can produce tones reminiscent of 16 bit videogame music. Aftertouch adds vibrato.  
+
+**Speed Lead** is a mono sound that works well on the high or low end. When played quickly, the slow flanger effect becomes more evident. Mod wheel gives it a slower attack so it can be used as a pad with lower velocities. Aftertouch adds vibrato.  
+
+**Basedland** is a vintage analog synth sound, decent as bass or keys, and can also work as a pad with mod wheel up and low velocity presses. Try holding a low note and working the mod wheel and aftertouch.  
 
 Edit this README to add your own tips, tricks, and trivia!  
 
