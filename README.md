@@ -10,7 +10,13 @@ Shoutout to (in no particular order) Mark Young, Metamere, abstractrealism shosh
 # Preset Notes  
 "MPE" was added to the names of presets tagged wtih MPE which are intended to be played with an MPE MIDI controller. Saumur Piano is a public piano that sits outside all summer next to the Loire. Samples were recorded by hand and used to make the preset. Frances2 was made by shoshin's 8 year old daughter.  
 
-## Metamere Preset Notes  
+<details>
+<summary> 
+Metamere's Presets Notes 
+</summary>
+
+## Metamere's Presets Notes 
+  
 **Vsco Percussion Sampler Kit** is an eclectic and useful collection of public domain orchestral samples (https://versilian-studios.com/vsco-community/), taken from a much larger set, cleaned, leveled, and converted as necessary to work well on the Deluge and with each other. Various wood, metal, traditional, folk, and other exotic sounds.  
 
 **Meld Arp** is designed for ambient music, and its rate depends on the song tempo. It slowly cycles between being more dull and quiet at the bottom of the cycle to more crisp and loud at the top. The mod wheel and/or aftertouch can be used to manually boost it and open the filter. Because it uses a wavetable for the oscillator, you can adjust the timbre using custom 2 and 3.  
@@ -29,7 +35,9 @@ Shoutout to (in no particular order) Mark Young, Metamere, abstractrealism shosh
 
 **Speed Lead** is a mono sound that works well on the high or low end. When played quickly, the slow flanger effect becomes more evident. Mod wheel gives it a slower attack so it can be used as a pad with lower velocities. Aftertouch adds vibrato.  
 
-**Basedland** is a vintage analog synth sound, decent as bass or keys, and can also work as a pad with mod wheel up and low velocity presses. Try holding a low note and working the mod wheel and aftertouch.  
+**Basedland** (B-sides) is a vintage analog synth sound, decent as bass or keys, and can also work as a pad with mod wheel up and low velocity presses. Try holding a low note and working the mod wheel and aftertouch.  
+
+</details>
 
 Edit this README to add your own tips, tricks, and trivia!  
 
