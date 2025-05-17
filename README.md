@@ -1,7 +1,14 @@
 # deluge-community-preset-pack-1.2  
 **Download**: Click the green [<> Code] button in the top right! Then click Download Zip!  
 
-Deluge Community Firmware 1.2 Preset Competition Results! This set of presets were submitted for a preset competition for the 1.2 community firmware for the Deluge. Thank you all so much for participating! Download this repository and copy the "Community 1.2" and "Community 1.2 B-Sides" folders to the KITS, SAMPLES, and SYNTHS folders on your SD card. The unzipped total file size is around 689 MB. You could relocate the .XML files in the KITS and SYNTHS folders to wherever you'd like, but the SAMPLES folders need to be located at `KITS/Community 1.2` and `KITS/Community 1.2 B-Sides` to keep the file paths in the .XMLs correct.  
+Deluge Community Firmware 1.2 Preset Competition Results! This set of presets were submitted for a preset competition for the 1.2 community firmware for the Deluge. Thank you all so much for participating! Download this repository and copy the "Community/1.2 Presets" and "Community/1.2 Presets B-Sides" folders to the KITS, SAMPLES, and SYNTHS folders on your SD card. The unzipped total file size is around 689 MB. You could relocate the .XML files in the KITS and SYNTHS folders to wherever you'd like, but the SAMPLES folders need to be located at `KITS/Community 1.2 Presets` and `KITS/Community 1.2 Presets B-Sides` to keep the file paths in the .XMLs correct. You SD card should end up looking something like the following:   
+
+KITS/COMMUNITY/1.2 Presets/  
+KITS/COMMUNITY/1.2 Presets B-Sides/  
+SAMPLES/COMMUNITY/1.2 Presets/  
+SAMPLES/COMMUNITY/1.2 Presets B-Sides/  
+SYNTHS/COMMUNITY/1.2 Presets/  
+SYNTHS/COMMUNITY/1.2 Presets B-Sides/  
 
 There are tons of great presets in both folders, have fun exploring all the sounds!  
 
