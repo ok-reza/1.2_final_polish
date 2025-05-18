@@ -5,6 +5,7 @@
 	polyphonic="poly"
 	voicePriority="1"
 	mode="subtractive"
+        transpose="1"
 	modFXType="none"
 	lpfMode="24dB"
 	hpfMode="HPLadder"
@@ -19,7 +20,7 @@
 		<sampleRanges>
 			<sampleRange
 				rangeTopNote="30"
-				fileName="SAMPLES/COMMUNITY/1.2 Presets/Pad 20k Pad/Pad 20k Pad E0.WAV"
+				fileName="SAMPLES/Community 1.2/Pad 20k Pad/Pad 20k Pad E0.WAV"
 				transpose="32">
 				<zone
 					startSamplePos="0"
@@ -27,7 +28,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="33"
-				fileName="SAMPLES/COMMUNITY/1.2 Presets/Pad 20k Pad/Pad 20k Pad G0.WAV"
+				fileName="SAMPLES/Community 1.2/Pad 20k Pad/Pad 20k Pad G0.WAV"
 				transpose="29">
 				<zone
 					startSamplePos="0"
@@ -35,7 +36,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="42"
-				fileName="SAMPLES/COMMUNITY/1.2 Presets/Pad 20k Pad/Pad 20k Pad E1.WAV"
+				fileName="SAMPLES/Community 1.2/Pad 20k Pad/Pad 20k Pad E1.WAV"
 				transpose="20">
 				<zone
 					startSamplePos="0"
@@ -43,7 +44,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="45"
-				fileName="SAMPLES/COMMUNITY/1.2 Presets/Pad 20k Pad/Pad 20k Pad G1.WAV"
+				fileName="SAMPLES/Community 1.2/Pad 20k Pad/Pad 20k Pad G1.WAV"
 				transpose="17">
 				<zone
 					startSamplePos="0"
@@ -51,7 +52,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="54"
-				fileName="SAMPLES/COMMUNITY/1.2 Presets/Pad 20k Pad/Pad 20k Pad E2.WAV"
+				fileName="SAMPLES/Community 1.2/Pad 20k Pad/Pad 20k Pad E2.WAV"
 				transpose="8">
 				<zone
 					startSamplePos="0"
@@ -59,7 +60,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="57"
-				fileName="SAMPLES/COMMUNITY/1.2 Presets/Pad 20k Pad/Pad 20k Pad G2.WAV"
+				fileName="SAMPLES/Community 1.2/Pad 20k Pad/Pad 20k Pad G2.WAV"
 				transpose="5">
 				<zone
 					startSamplePos="0"
@@ -67,7 +68,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="66"
-				fileName="SAMPLES/COMMUNITY/1.2 Presets/Pad 20k Pad/Pad 20k Pad E3.WAV"
+				fileName="SAMPLES/Community 1.2/Pad 20k Pad/Pad 20k Pad E3.WAV"
 				transpose="-4">
 				<zone
 					startSamplePos="0"
@@ -75,7 +76,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="69"
-				fileName="SAMPLES/COMMUNITY/1.2 Presets/Pad 20k Pad/Pad 20k Pad G3.WAV"
+				fileName="SAMPLES/Community 1.2/Pad 20k Pad/Pad 20k Pad G3.WAV"
 				transpose="-7">
 				<zone
 					startSamplePos="0"
@@ -83,7 +84,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="78"
-				fileName="SAMPLES/COMMUNITY/1.2 Presets/Pad 20k Pad/Pad 20k Pad E4.WAV"
+				fileName="SAMPLES/Community 1.2/Pad 20k Pad/Pad 20k Pad E4.WAV"
 				transpose="-16">
 				<zone
 					startSamplePos="0"
@@ -91,7 +92,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="81"
-				fileName="SAMPLES/COMMUNITY/1.2 Presets/Pad 20k Pad/Pad 20k Pad G4.WAV"
+				fileName="SAMPLES/Community 1.2/Pad 20k Pad/Pad 20k Pad G4.WAV"
 				transpose="-19">
 				<zone
 					startSamplePos="0"
@@ -99,7 +100,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="90"
-				fileName="SAMPLES/COMMUNITY/1.2 Presets/Pad 20k Pad/Pad 20k Pad E5.WAV"
+				fileName="SAMPLES/Community 1.2/Pad 20k Pad/Pad 20k Pad E5.WAV"
 				transpose="-28">
 				<zone
 					startSamplePos="0"
@@ -107,7 +108,7 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="93"
-				fileName="SAMPLES/COMMUNITY/1.2 Presets/Pad 20k Pad/Pad 20k Pad G5.WAV"
+				fileName="SAMPLES/Community 1.2/Pad 20k Pad/Pad 20k Pad G5.WAV"
 				transpose="-31">
 				<zone
 					startSamplePos="0"
@@ -115,14 +116,14 @@
 			</sampleRange>
 			<sampleRange
 				rangeTopNote="102"
-				fileName="SAMPLES/COMMUNITY/1.2 Presets/Pad 20k Pad/Pad 20k Pad E6.WAV"
+				fileName="SAMPLES/Community 1.2/Pad 20k Pad/Pad 20k Pad E6.WAV"
 				transpose="-40">
 				<zone
 					startSamplePos="0"
 					endSamplePos="382821" />
 			</sampleRange>
 			<sampleRange
-				fileName="SAMPLES/COMMUNITY/1.2 Presets/Pad 20k Pad/Pad 20k Pad G6.WAV"
+				fileName="SAMPLES/Community 1.2/Pad 20k Pad/Pad 20k Pad G6.WAV"
 				transpose="-43">
 				<zone
 					startSamplePos="0"
