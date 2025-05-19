@@ -5,6 +5,7 @@
 	polyphonic="poly"
 	voicePriority="1"
 	mode="subtractive"
+        transpose="1"
 	modFXType="none"
 	lpfMode="24dB"
 	hpfMode="HPLadder"

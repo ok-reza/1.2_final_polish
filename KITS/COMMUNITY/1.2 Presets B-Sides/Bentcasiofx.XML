@@ -58,7 +58,7 @@
 		compBlend="2147483647" />
 	<soundSources>
 		<sound
-			name="1 - Normalized_RC000008"
+			name="1"
 			polyphonic="auto"
 			voicePriority="1"
 			mode="subtractive"
@@ -209,7 +209,7 @@
 				compBlend="2147483647" />
 		</sound>
 		<sound
-			name="1 - Normalized_RC000001"
+			name="2"
 			polyphonic="auto"
 			voicePriority="1"
 			mode="subtractive"
@@ -360,7 +360,7 @@
 				compBlend="2147483647" />
 		</sound>
 		<sound
-			name="1 - Normalized_RC000002"
+			name="3"
 			polyphonic="auto"
 			voicePriority="1"
 			mode="subtractive"
@@ -511,7 +511,7 @@
 				compBlend="2147483647" />
 		</sound>
 		<sound
-			name="1 - Normalized_RC000006"
+			name="4"
 			polyphonic="auto"
 			voicePriority="1"
 			mode="subtractive"
@@ -662,7 +662,7 @@
 				compBlend="2147483647" />
 		</sound>
 		<sound
-			name="1 - Normalized_RC000011"
+			name="5"
 			polyphonic="auto"
 			voicePriority="1"
 			mode="subtractive"
@@ -813,7 +813,7 @@
 				compBlend="2147483647" />
 		</sound>
 		<sound
-			name="1 - Normalized_RC000016"
+			name="6"
 			polyphonic="auto"
 			voicePriority="1"
 			mode="subtractive"
@@ -964,7 +964,7 @@
 				compBlend="2147483647" />
 		</sound>
 		<sound
-			name="2 - Normalized_RC000005"
+			name="7"
 			polyphonic="auto"
 			voicePriority="1"
 			mode="subtractive"
@@ -1115,7 +1115,7 @@
 				compBlend="2147483647" />
 		</sound>
 		<sound
-			name="1 - Normalized_RC000021"
+			name="8"
 			polyphonic="auto"
 			voicePriority="1"
 			mode="subtractive"
